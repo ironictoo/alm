@@ -2430,6 +2430,12 @@ while true
     fprintf('runId %.6f time %.3f paradigm complete\n', runId, GetSecs - expStartTime);            
     fprintf('%s Paradigm complete.\n', datestr(now, 31));
 
+    %calculate average difficulty
+    difficulty_task = history.difficulty(history.runId==runId & history.cond == 1);
+    difficulty_base = history.difficulty(history.runId==runId & history.cond == 2);
+    fprintf('Average difficult of task: %.3f \n',mean(difficulty_task));
+    fprintf('Average difficult of baseline: %.3f \n',mean(difficulty_base));
+            
     % inform subject that task is complete
     Screen('FillRect', w, backgroundColor);
     Screen('TextSize', w, round(messageFontSize * yGrid));
