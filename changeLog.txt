@@ -1,0 +1,128 @@
+Version 7.73; February 6, 2024
+Fix bug in initializing keyboard
+
+Version 7.72; November 17, 2022
+Fix bug regarding adaptive procedure for flm2
+
+Version 7.71; September 1, 2022
+Fix size of stimuli in Morgan motor blocks
+
+Version 7.7; August 31, 2022
+Revamp the code for reading key presses and mouse clicks, to use KbQueueCheck, etc.
+This should avoid missing some key presses as could happen with certain setups
+
+Version 7.66; April 15, 2021
+Option for initial delay for dummy volumes
+
+Version 7.65; January 25, 2021
+New preference variable activeParadigms so that not all paradigms are displayed in menu
+Motor paradigms
+
+Version 7.64; November 2, 2020
+Adjust fixed auditory stimuli to properly match duration and intensity
+
+Version 7.63; September 21, 2020
+Make fixed auditory easy perceptual condition easier
+Make fixed auditory difficult perceptual condition harder
+
+Version 7.62; September 16, 2020
+Fix bug in trigger detection code
+
+Version 7.61; September 2, 2020
+Improved trigger detection code to allow ctrl-C
+
+Version 7.6; August 21, 2020
+Add fixed auditory paradigms
+Add capacity to detect very fast scanner trigger signals
+Very minor bug fixes (removed writing one result to console; removed unnecessary return variables)
+
+Version 7.51; October 2, 2019
+Larger text in Black sentence completion paradigm, split across two lines
+
+Version 7.5; September 25, 2019
+Add standard language mapping paradigms from Black et al. (2017)
+
+Version 7.41; May 13, 2019
+Dump almPreferences.m into the log
+
+Version 7.40; April 10, 2019
+Include placeholders for excluded items in paradigm file to preserve item numbers
+Fix bug which caused very rare crashes when rhyming stimuli were created that were too short
+
+Version 7.39; December 6, 2018
+Fix several problematic items in adaptive rhyming paradigm
+
+Version 7.38; September 18, 2018
+Make fixed easy perceptual stimuli slightly easier
+
+Version 7.37; August 14, 2018
+Make fixed easy perceptual stimuli more difficult
+Make fixed difficult semantic stimuli somewhat adaptive
+
+Version 7.36; August 3, 2018
+Add draft Spanish paradigms
+Comment out all preferences in almPreferences
+Attempt to detect input from all keyboards and keypads
+
+Version 7.35; July 31, 2018
+Fix bug involving moving log file by no longer logging cleanup
+Change default keys in almPreferences
+
+Version 7.34; June 25, 2018
+Fix logging of matches on fixed paradigms
+
+Version 7.33; June 21, 2018
+Fix remaining unicode issue on Mac
+Fix bug with fixed semantic stimuli
+Modify difficulty of fixed perceptual stimuli from levels 3 vs 7 to levels 2 vs 4
+
+Version 7.32; June 20, 2018
+Fix problem whereby wrong fonts were used on Mac
+Fix problem where three fixed semantic matching paradigms were loaded in wrong order
+Fix problem with loading fixed stimuli files on Mac
+
+Version 7.31; June 15, 2018
+Determine sample rate from audio device and resample stimuli accordingly
+Don't stop audio before closing
+
+Version 7.3; Jun 14, 2018
+Add fixed semantic matching paradigm
+Stop audio before closing and log all cleanup procedures
+
+Version 7.26; Jun 13, 2018
+Try to improve selection of best sound driver on Linux
+
+Version 7.25; Mar 28, 2018
+Add preference to allow shifting the y location of the stimuli
+
+Version 7.24; Mar 20, 2018
+Change audio regLatencyClass to 0 on Windows
+
+Version 7.23; Feb 28, 2018
+Allow mouse click to trigger scan
+
+Version 7.22; Nov 17, 2017
+Give visual cues in start menu when match or trigger keys pressed
+
+Version 7.21; Nov 15, 2017
+Fix big in list of auditory mismatch stimuli that can cause crash
+
+Version 7.2; May 10, 2017
+Completely revise all stimuli for the written semantic paradigm, making the higher levels more difficult
+Fix bug whereby keypresses might not be detected from all connected keyboards (including scanner triggers)
+
+Version 7.1; Feb 28, 2017
+Add rhyming paradigm
+Put all stimuli in lower case, but make this changable with preference variable
+Fix possible subtle bug regarding determining which items have been presented before
+
+Version 7.01; Jan 9, 2017
+Fix splash text which did not display properly on Windows
+Fix bug that prevented renaming of log file on Windows
+Fix bug where a few events were logged with launch time instead of current time
+Update instructions to describe tested systems and to emphasize need for gstreamer on Windows
+Check for proper installation of Psychtoolbox
+Allow Delete as well as Backspace when setting particpant ID
+
+Version 7.0; Dec 29, 2016
+Initial release

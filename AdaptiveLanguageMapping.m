@@ -1,19 +1,19 @@
 function AdaptiveLanguageMapping(pid)
 
 % Adaptive Language Mapping
-% Version 7.71; September 1, 2022
-% Copyright 2010-2022 Stephen M. Wilson
+% Version 7.73; February 6, 2024
+% Copyright 2010-2024 Stephen M. Wilson
 % Language Neuroscience Laboratory
-% Vanderbilt University Medical Center
-% 
+% University of Queensland
+
 % version and launch time
-almVersion = '7.71; September 1, 2022';
+almVersion = '7.73; February 6, 2024';
 launchTime = now;
 
 % preferences
-triggerKeys = {'T','t'};
+triggerKeys = {'`~'};
 initialDelay = 0;
-matchKeys = {'a', 'A', 'b', 'B', 'c', 'C', 'd', 'D'};
+matchKeys = {'0', '0)', '1', '1!', '2', '2@', '3', '3#', '4', '4$', '5', '5%'};
 skipSyncTests = 0;
 switch(computer)
   case 'GLNXA64'
@@ -63,9 +63,9 @@ c2_diary = onCleanup(@()diary('off'));
 % splash to command window
 fprintf('Adaptive Language Mapping\n');
 fprintf('Version %s\n', almVersion);
-fprintf('Copyright 2010-2022 Stephen M. Wilson\n');
+fprintf('Copyright 2010-2024 Stephen M. Wilson\n');
 fprintf('Language Neuroscience Laboratory\n');
-fprintf('Vanderbilt University Medical Center\n\n');
+fprintf('University of Queensland\n\n');
 
 % environment information
 fprintf('Environment information:\n');
@@ -112,8 +112,8 @@ end
 
 % set up screen
 fprintf('%s Setting up screen.\n', datestr(now, 31));
-[w, wRect] = Screen('OpenWindow', max(Screen('Screens')));
-wOffscreen = Screen('OpenOffscreenWindow', max(Screen('Screens')));
+[w, wRect] = Screen('OpenWindow', 0);
+wOffscreen = Screen('OpenOffscreenWindow', 0);
 c3 = onCleanup(@()Screen('CloseAll'));
 
 xDim = wRect(3);
@@ -187,18 +187,25 @@ clear KbCheck; % new 7.36
 KbName('UnifyKeyNames');
 % don't clutter command window with key presses
 if jvm
-  ListenChar(2);
+  ListenChar(-1); % changed 2 to -1, version 7.73
   c6 = onCleanup(@()ListenChar(0));
 end
 
 % start a queue for every device, keyboard and non-keyboard alike
-keyboardIndices = GetKeyboardIndices;
-gamepadIndices = GetGamepadIndices;
+[keyboardIndices, kbNames, kbInfos] = GetKeyboardIndices;
+keyboardIndices
+kbNames{:}
+kbInfos{:}
+[gamepadIndices, gpNames, gpInfos] = GetGamepadIndices;
+gamepadIndices
+gpNames{:}
+gpInfos{:}
 global devInd;
 global nDevices;
-devInd = [keyboardIndices(:); gamepadIndices(:)];
-nDevices = length(devInd);
+devInd = [keyboardIndices(:); gamepadIndices(:)]
+nDevices = length(devInd)
 for i = 1:nDevices
+  fprintf('%s Creating queue %d\n', datestr(now, 31), i);
   KbQueueCreate(devInd(i));
   KbQueueStart(devInd(i));
   c7(i) = onCleanup(@()KbQueueRelease(devInd(i))); %#ok<AGROW,NASGU>
@@ -977,7 +984,7 @@ while true
               fprintf('runId %.6f time %.3f processing buffered key %s\n', runId, GetSecs - expStartTime, key);
               bufferKey = [];
             else
-              [q, key] = waitUntil({'w', 'e', 'r', 't', 'y', 'u', 'i', 'a', 's', 'd', 'f'}, inf, expStartTime, runId, pahandle); 
+              [q, key] = waitUntil({'w', 'e', 'r', 't', 'y', 'u', 'i', 's', 'd', 'f', 'g'}, inf, expStartTime, runId, pahandle); 
             end
             if q, break; end
             switch key
@@ -1000,16 +1007,16 @@ while true
                 end
                 fprintf('runId %.6f time %.3f setting trainingDifficulty = %d\n', runId, GetSecs - expStartTime, trainingDifficulty);
                 continue
-              case 'a' % words match
+              case 's' % words match
                 cond = 1;
                 match = 1;
-              case 's' % words mismatch
+              case 'd' % words mismatch
                 cond = 1;
                 match = 0;
-              case 'd' % symbols/tones match
+              case 'f' % symbols/tones match
                 cond = 2;
                 match = 1;
-              case 'f' % symbols/tones mismatch
+              case 'g' % symbols/tones mismatch
                 cond = 2;
                 match = 0;
             end
@@ -1654,7 +1661,7 @@ while true
         
         % now wait for a response
         if paradigm == 1 || paradigm == 5 || paradigm == 9 || paradigm == 13
-          keysAllowed = [matchKeys, 'z', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'a', 's', 'd', 'f'];
+          keysAllowed = [matchKeys, 'z', 'w', 'e', 'r', 't', 'y', 'u', 'i', 's', 'd', 'f', 'g'];
         else
           keysAllowed = matchKeys;
         end
@@ -1682,7 +1689,7 @@ while true
               PsychPortAudio('Start', pahandle, 1, 0, 1);
             end
             fprintf('runId %.6f time %.3f match response received\n', runId, keyTime - expStartTime);            
-          case {'z', '-', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'a', 's', 'd', 'f'} % no response
+          case {'z', '-', 'w', 'e', 'r', 't', 'y', 'u', 'i', 's', 'd', 'f', 'g'} % no response
             response = false;
             rt = 0;
             if key ~= 'z' && key ~= '-'
@@ -2029,7 +2036,6 @@ while true
             else
               level = 2;
             end
-            level = 2; % zzz just for testing TAKE THIS OUT
             item1_array{tr} = options1{level};
             item2_array{tr} = options2{level};
           end
@@ -2673,9 +2679,9 @@ end
 function writeInstructions(w, standardFontSize, yGrid, verticalLines, hintColor, trainingDifficulty)
 
 Screen('TextSize', w, round(standardFontSize * yGrid));
-DrawFormattedText(w, '[A]/[S] = present match/mismatch language item', 'center', (verticalLines - 6) * yGrid, hintColor);
-DrawFormattedText(w, '[D]/[F] = present match/mismatch control item', 'center', (verticalLines - 5) * yGrid, hintColor);
-DrawFormattedText(w, '[H]/[J]/[K]/[L] = respond "match"', 'center', (verticalLines - 4) * yGrid, hintColor);
+DrawFormattedText(w, '[S]/[D] = present match/mismatch language item', 'center', (verticalLines - 6) * yGrid, hintColor);
+DrawFormattedText(w, '[F]/[G] = present match/mismatch control item', 'center', (verticalLines - 5) * yGrid, hintColor);
+DrawFormattedText(w, '[1]/[2]/[3]/[4]/[0] = respond "match"', 'center', (verticalLines - 4) * yGrid, hintColor);
 DrawFormattedText(w, sprintf('[W]/[E]/[R]/[T]/[Y]/[U]/[I] = set difficulty level 1/2/3/4/5/6/7; currently %d', trainingDifficulty), 'center', (verticalLines - 3) * yGrid, hintColor);
 DrawFormattedText(w, '[Z] = clear item; [Q]/[Esc] = quit', 'center', (verticalLines - 2) * yGrid, hintColor);
 
