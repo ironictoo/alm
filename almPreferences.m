@@ -4,21 +4,27 @@
 % specify either a list of trigger keys, or a device name followed by a
 % single trigger key, e.g. triggerKeys = {'AT Translated Set 2 keyboard', 'x'};
 % device names can be obtained by calling GetKeyboardIndices
-% triggerKeys = {'`~'};
+ triggerKeys = {'T','t'};
 
 % seconds to pause after trigger during which dummy volumes are acquired
 % for systems which send a trigger prior to the acquisition of dummy volumes
 % initialDelay = 0;
 
 % keys that count as a "match" response
-% matchKeys = {'0', '0)', '1', '1!', '2', '2@', '3', '3#', '4', '4$', '5', '5%'};
+inScanner = input('Inside the scanner (1 = yes, 0 = no)? ');
+if inScanner
+	matchKeys = {'a', 'A', 'b', 'B', 'c', 'C', 'd', 'D'};
+else
+    matchKeys = {'h', 'H', 'j', 'J', 'k', 'K', 'l', 'L'};
+end
+clearvars inScanner
 
 % note that you may need to list, e.g. '1' and/or '1!', etc., depending on whether
 % the key is on a numeric keypad or keyboard; also, the special value 'MOUSE' can be
 % used to indicate a mouse click
 
 % sync tests may need to be skipped if Psychtoolbox cannot launch due to timing inaccuracies
-skipSyncTests = 1;
+skipSyncTests = 0;
 
 % proportional and monospaced fonts should look similar
 % all symbols used should display properly in the monospaced font
