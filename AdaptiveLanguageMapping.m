@@ -636,6 +636,7 @@ while true
           nBlocks = 20; % standard scan
         end
         if paradigm <= 4 % written
+          % TODO this might be where we can adjust the minimum timing
           maxStimsPerBlock = 10;
           minStimsPerBlock = 4;
           ignoreWindow = 0.3;
@@ -648,12 +649,14 @@ while true
           minStimsPerBlock = 4;
           ignoreWindow = 0.3;
         elseif paradigm >= 13 % rhyme
+          % TODO this might be where we can adjust the minimum timing
           maxStimsPerBlock = 10;
           minStimsPerBlock = 4;
           ignoreWindow = 0.3;
         end
         nDifficultyLevels = 7;
         if ~exist('trainingDifficulty', 'var')
+          % TODO: adjust here to have it start not on min difficulty 
           trainingDifficulty = 1;
         end
         stepHarder = 1;

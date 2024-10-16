@@ -1,0 +1,6 @@
+NOTES
+
+rhyming reads in difficulty column, uses it directly (not sure how)
+semantic difficult is infered from list order, easiest on top
+first 100 items are "very easy" min difficult
+after that the rest are evenly divided across the available difficult levels, currently 7 total
