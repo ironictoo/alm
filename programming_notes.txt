@@ -4,3 +4,52 @@ rhyming reads in difficulty column, uses it directly (not sure how)
 semantic difficult is infered from list order, easiest on top
 first 100 items are "very easy" min difficult
 after that the rest are evenly divided across the available difficult levels, currently 7 total
+
+*Timing along changed at the end of a block (stim+baseline), calculated as average of ctrlDifficulty and wordsDifficulty
+*Timing recorded in history file as rtWindow
+
+
+
+  'Adaptive semantic matching -- visual -- training', ... % 1
+  'Adaptive semantic matching -- visual -- practice', ... % 2
+  'Adaptive semantic matching -- visual -- standard scan (6:40)', ... % 3
+  'Adaptive semantic matching -- visual -- quick scan (4:00)', ... % 4
+  'Adaptive semantic matching -- auditory -- training', ... % 5
+  'Adaptive semantic matching -- auditory -- practice', ... % 6
+  'Adaptive semantic matching -- auditory -- standard scan (6:40)', ... % 7
+  'Adaptive semantic matching -- auditory -- quick scan (4:00)', ... % 8
+  'Adaptive syllable matching -- visual -- training', ... % 9
+  'Adaptive syllable matching -- visual -- practice', ... % 10
+  'Adaptive syllable matching -- visual -- standard scan (6:40)', ... % 11
+  'Adaptive syllable matching -- visual -- quick scan (4:00)', ... % 12
+  'Adaptive rhyming judgment -- visual -- training', ... % 13
+  'Adaptive rhyming judgment -- visual -- practice', ... % 14
+  'Adaptive rhyming judgment -- visual -- standard scan (6:40)', ... % 15
+  'Adaptive rhyming judgment -- visual -- quick scan (4:00)', ... % 16
+  'Narrative comprehension -- training', ... % 17
+  'Narrative comprehension -- paradigm 1 (Einstein) (6:40)', ... % 18
+  'Narrative comprehension -- paradigm 2 (Beatles) (6:40)', ... % 19
+  'Picture naming -- training', ... % 20
+  'Picture naming -- paradigm 1 (6:40)', ... % 21
+  'Picture naming -- paradigm 2 (6:40)', ... % 22
+  'Breath holding -- training', ... % 23
+  'Breath holding -- scan (4:54)', ... % 24
+  'Fixed semantic matching -- visual -- practice', ... % 25
+  'Fixed semantic matching -- visual -- paradigm 1 (8:00)', ... % 26
+  'Fixed semantic matching -- visual -- paradigm 2 (8:00)', ... % 27
+  'Fixed semantic matching -- auditory -- practice', ... % 28
+  'Fixed semantic matching -- auditory -- paradigm 1 (8:00)', ... % 29
+  'Fixed semantic matching -- auditory -- paradigm 2 (8:00)', ... % 30
+  'Sentence completion -- practice', ... % 31
+  'Sentence completion -- quick scan (4:00)', ... % 32
+  'Word generation -- practice', ... % 33
+  'Word generation -- quick scan (4:00)', ... % 34
+  'Motor -- tongue -- Wilson', ... % 35
+  'Motor -- fingers -- Wilson', ... % 36
+  'Motor -- foot -- Wilson', ... % 37
+  'Motor -- face -- Morgan', ... % 38
+  'Motor -- tap -- Morgan', ... % 39
+  'Motor -- arm -- Morgan', ... % 40
+  'Motor -- foot -- Morgan', ... % 41
+  'Check fonts', ... % 42
+  'Quit'}; % 43

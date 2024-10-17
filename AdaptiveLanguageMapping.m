@@ -1027,7 +1027,7 @@ while true
             intendedOnset = -1;
             rtWindow = 600;
             
-          case {2, 6, 10, 14}
+          case {2, 6, 10, 14} %adaptive practice
             if isempty(upcomingCond) % finished
               expDuration = GetSecs - expStartTime;
               break;
@@ -1057,13 +1057,14 @@ while true
               difficulty = ctrlDifficulty;
             end
             
+            % Set timing based only on difficulty of language task
             rtWindow = blockLength / (minStimsPerBlock + ...
-              ((wordsDifficulty + ctrlDifficulty) / 2 - 1) / ...
+              (wordsDifficulty - 1) / ...
               (nDifficultyLevels - 1) * (maxStimsPerBlock - minStimsPerBlock));            
           
             intendedOnset = GetSecs - expStartTime + iti;
 
-          case {3, 4, 7, 8, 11, 12, 15, 16}
+          case {3, 4, 7, 8, 11, 12, 15, 16} %adaptive scans
             % words
             wordsNewDifficulty = history.newDifficulty((history.paradigm == paradigm | history.paradigm == ceil(paradigm / 4) * 4 - 2) & history.cond == 1);
             if isempty(wordsNewDifficulty)
@@ -1071,7 +1072,7 @@ while true
             else
               wordsDifficulty = wordsNewDifficulty(end);
             end
-            % tones
+            % control
             ctrlNewDifficulty = history.newDifficulty((history.paradigm == paradigm | history.paradigm == ceil(paradigm / 4) * 4 - 2) & history.cond == 2);
             if isempty(ctrlNewDifficulty)
               ctrlDifficulty = trainingDifficulty;
@@ -1085,8 +1086,9 @@ while true
               end
               
               possibleRtWindows = blockLength ./ (minStimsPerBlock:maxStimsPerBlock);
+              % Set timing based only on difficulty of language task
               idealRtWindow = blockLength / (minStimsPerBlock + ...
-                ((wordsDifficulty + ctrlDifficulty) / 2 - 1) / ...
+                (wordsDifficulty - 1) / ...
                 (nDifficultyLevels - 1) * (maxStimsPerBlock - minStimsPerBlock));          
               blockPairRtWindow = min([blockLength / minStimsPerBlock, possibleRtWindows(possibleRtWindows >= idealRtWindow)]);
               trialsPerBlock = round(blockLength / blockPairRtWindow);
