@@ -2692,7 +2692,7 @@ function writeInstructions(w, standardFontSize, yGrid, verticalLines, hintColor,
 Screen('TextSize', w, round(standardFontSize * yGrid));
 DrawFormattedText(w, '[S]/[D] = present match/mismatch language item', 'center', (verticalLines - 6) * yGrid, hintColor);
 DrawFormattedText(w, '[F]/[G] = present match/mismatch control item', 'center', (verticalLines - 5) * yGrid, hintColor);
-DrawFormattedText(w, '[1]/[2]/[3]/[4]/[0] = respond "match"', 'center', (verticalLines - 4) * yGrid, hintColor);
+DrawFormattedText(w, '[H]/[J]/[K]/[L] = respond "match"', 'center', (verticalLines - 4) * yGrid, hintColor);
 DrawFormattedText(w, sprintf('[W]/[E]/[R]/[T]/[Y]/[U]/[I] = set difficulty level 1/2/3/4/5/6/7; currently %d', trainingDifficulty), 'center', (verticalLines - 3) * yGrid, hintColor);
 DrawFormattedText(w, '[Z] = clear item; [Q]/[Esc] = quit', 'center', (verticalLines - 2) * yGrid, hintColor);
 
