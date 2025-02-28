@@ -1,9 +1,11 @@
 NOTES
 
-rhyming reads in difficulty column, uses it directly (not sure how)
+rhyming reads in difficulty column, uses it directly (chooses pair that matches current difficulty)
+Max difficulty is set globally for all tasks (currently 7), not sure how to adjust for single test (ie rhyming which we now have 8 levels)
+Currently will not reach max rhyming difficulty
 semantic difficult is infered from list order, easiest on top
 first 100 items are "very easy" min difficult
-after that the rest are evenly divided across the available difficult levels, currently 7 total
+after that the rest are evenly divided across the available difficult levels, currently 7 total (doesn't apply to rhyming)
 
 *Timing along changed at the end of a block (stim+baseline), calculated as average of ctrlDifficulty and wordsDifficulty
 *Timing recorded in history file as rtWindow

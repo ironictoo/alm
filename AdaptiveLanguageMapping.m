@@ -664,7 +664,7 @@ while true
         nDifficultyLevels = 7;
         if ~exist('trainingDifficulty', 'var')
           % TODO: adjust here to have it start not on min difficulty 
-          trainingDifficulty = 1;
+          trainingDifficulty = 2;
         end
         stepHarder = 1;
         stepEasier = 2;
