@@ -536,13 +536,13 @@ while true
         fclose(fid);
 
         fid = fopen('paradigms/matches_spanish.txt', 'r');
-        c = textscan(fid, '%s%s', 'HeaderLines', 0, 'Whitespace', '\t');
+        c = textscan(fid, '%s%s%f%f%f', 'HeaderLines', 1, 'Whitespace', '\t');
         sp_matches.word1 = c{1};
         sp_matches.word2	= c{2};
         fclose(fid);
 
         fid = fopen('paradigms/mismatches_spanish.txt', 'r');
-        c = textscan(fid, '%s%s', 'HeaderLines', 0, 'Whitespace', '\t');
+        c = textscan(fid, '%s%s%f%f%f', 'HeaderLines', 1, 'Whitespace', '\t');
         sp_mismatches.word1 = c{1};
         sp_mismatches.word2 = c{2};
         fclose(fid);
