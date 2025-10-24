@@ -1,1327 +1,1273 @@
-marido	esposa
-niña	niño
-rey	reyna
-papa	mama
-efectivo	dinero
-mujer	hombre
-marco	cuadro
-casa	hogar
-madre	padre
-perro	gato
-plasma	sangre
-arena	playa
-esfera	mundo
-sal	pimienta
-hermana	hermano
-medico	doctor
-hembra	macho
-avenida	calle
-infantil	bebé
-cine	pelicula
-plata	oro
-cachorro	perro
-hija	hijo
-circulo	cuadro
-gorra	sombrero
-cama	dormir
-bosque	arbol
-hoja	arbol
-pierna	brazo
-combustible	gasolina
-armada	ejército
-foto	imagen
-acre	tierra
-vuelo	avión
-ciudad	pueblo
-paraguas	lluvia
-silla	mesa
-pino	arbol
-barro	tierra
-planeta	tierra
-barco	bote
-bala	pistola
-avión a reacción	avión
-arma 	pistola
-profesor	maestra
-asiento	silla
-carne	piel
-petirrojo	pajaro
-zologico	animal
- bolígrafo	lápiz
-diamante	anillo
-pancarta	bandera
-chico	niño
-enfermedad	enfermo
-bajo	alto
-rama	arbol
-oscuro	luz
-persona	gente
-carretera	calle
-basura	desperdicios
-nido	pajaro
-articulo	periódico
-princesa	principe
-verano	invierno
-estupido	tonto
-dedos	manos
-instructor	maestro
-blusa	camisa
-adulto	niño
-cielo	azul
-flecha	arco
-mar	océano
-lodo	tierra
-camara	foto
- té	café
-roca	piedra
-cerdo	puerco
-infeliz	triste
-navegacion	bote
-brisa	viento
-oxigeno	aire
-donante	sangre
-manos	pies
-chef	cocinero
-toro	vaca 
-grueso	fino
-inteligente	listo
-esqueleto	hueso
-gato	raton
-taxi	coche
-rifle	pistola
-centavos	dolares
-guardian	padre
-delgado 	gordo
-doctor	enfermera
-pasos	escaleras
-entrada	salida
-construir	edificar
-suelto	apretado
-entrar	salir
-ecuación	matemáticas
-limpio	sucio
-sentarse	parase
-imprimir	escribir
-limon	lima
-chiste	reir
-mantequilla	pan 
-muelle	bote
-ferrocarril	tren
-sobre	carta
-juez	corte
-cigarrillo	fumar
-cepillo	pelo
-votacion	votar
- sábanas	cama
-policía	poli
-cantar	cancion
- césped	verde
-autor	escritor
-vaca	leche
-tienda	campamento
-mojado	seco
-soda	refresco
-florecer	flor
-comprar	tienda
-montaña	cerro
-hielo	frio
-rebotar	pelota
-lirio	flor
-eslabón	cadena
-lentes	gafas
-campana	tañido
-posada	hotel
-empujar	jalar
-tren	via
-zapatos	pies
-bar 	cerveza
-temor	miedo
-cirujano	doctor
-moneda de diez centavos	moneda de cinco centavos
-atomica	bomba
-camioneta	carro 
-zapatos	 calcetín 
-universidad	colegio
-robar	hurtar
-semilla	plantar
-aldea	pueblo
-cerebro	cabeza
-cabaña	leño
-dedo	mano 
-azucar	dulce
-insecto	bicho
-redondo	cuadrado
-sonido	ruido
-atlas	mapa
-halcón	pajaro
-dolar	dinero
-rata	raton
-yate	bote
-aguila	pajaro
-carcel	prision
-alas	pajaro
-patron	jefe
-duna	arena
-hogaza	pan
-pelar	naranja
-olor	oler
-abdomen	estómago
-codo	brazo
-gripe	enfermo
-futbol	pelota
-crucero	barco
-muslo	pierna
-cervo	pajaro
-manada	vaca 
-rosa	flor
-coredor	pasillo
-reir	llorar
-montar	caballo
-ruidoso	alto
-autopista	carretera
-nicotina	cigarrillo
-tina	bañera
-arteria	vena
-mezclilla	pantalones
-onza	libra
-sobrio	ebrio
-lesion	lastimar
-naranja	jugo
-estudiante	maestro
-ganado	vaca
-pasto	césped
-propiedad	tierra
-esquiar	nieve
-ventana	vidrio
-lengua	boca
-dentista	dientes
-estacion	tren
-bestia	animal
-rostizar	res
-monasterio	monje
-bebida	beber
-jardin	flor
-platillo	plato
-simio	mono
-arroyo	rio
-sabor	gusto
-cardenal	pajaro
-jurado	juez
-veloz	rapido
-sello	carta
-llave	candado
-leon	tigre
-labios	beso
-gerente	jefe
-tapete	alfombra
-saco	bolsa
-viaje	vacaciones
-caballero	armadura
-identico	gemelo
-loco	enojado
-luna	sol
-centro comercial	compras
-estadio	futbol americano
-puro	fumar
-ballet	bailar
-pipa	fumar
-amanecer	atardecer
-pistola	disparar
-salto	brincar
-triangulo	cuadro
-cielo raso	techo
-enemigo	amigo
-ceremonio	boda
-escoba	barrer
-acero	metal
-dulce	agrio
-tormenta	lluvia
-maleza	cesped
-pulgada	pie
-carie	diente 
-tela	trapo
-cienaga	pantano
-tararear	cantar
-eternidad	siempre
-estanque	lago
-correo	carta
-rodilla	pierna
-alarma	reloj
-poquer	carta
-manga	camisa
-sinfonia	orquesta
-dama	mujer
-centavo 	penique
-clima	tiempo
-nariz	cara
-amargo	dulce
-tallo	flor
-tronco	madera
-camisa	pantalones
-mayordomo	sirvienta
-aspero	liso
-arroyo	corriente
-centro comercial	compras
-arrecife	coral
-velocidad	rapidez
-calendario	fecha
-caramelos	dulce
-pie	zapato
-almuerzo	cena
-herramienta	martillo
-falda	vestido
-bosquecillo	naranja
-bistec	carne
-centro  	manzana
-olla	 sartén
-alcohol	cerveza
-bosque	forestal
-capitan	barco
-rabia	ira
-zumbido	abeja
-poco profundo	profundo
-viga	madera
-altura	peso
-cuchillo	tenedor
-medialuna	luna
-pastura	vaca
-portón	cerca
-oreja	oír
-molécula	átomo
- avión	volar
-traqueteo	víbora
-béisbol	murciélago
-cierre	pantalones
-deuda	deber
-miembro	brazo
-cacerola	sartén
-esconder	buscar
-herramientas	martillo
-bañera	ducha
-crudo	carne
-res	carne
-prestar	pedir prestado
-primavera	verano
-barriga	estómago
-róbalo	pescado
-soldado	ejército
-caballero	dama
-vainilla	chocolate
-tabaco	cigarrillo
-cereal	desayuno
-deporte	futbol americano
-visitante	invitado
-placa	dientes
-estación	gasolina
-navegación	barco
-furgoneta	camioneta
-escritorio	silla
-abrigo	chaqueta
-pie	dedo
-ruidoso	ruido
-geometría	matemáticas
-veneno	ponzoña
-quemar	fuego
-albur	chiste
-navío	barco
-florecer	flor
-húmedo	mojado
-tostado	pan
-fruta	manzana
-callado	ruidoso
-multitud	muchedrumbre
-rancho	caballo
-bota	zapatos
-vista	ojo
-inteligente	tonto
-bigote	barba
-pintor	artista
-par	dos
-pulmón 	respirar
-cinturón	pantalones
-ministro	sacerdote
-carruaje	caballo
-paloma	pajaro
-acero	hierro
-ancla	bote
-gema	diamante
-palacio	castillo
-huevos	tocino
-neblina	niebla
-minero	carbón
-monje	sacerdote
-jinete	caballo
-lino	sábana
-bar 	cantina
-divorcio	matrimonio
-cielo raso	piso
-espada	cuchillo
-tarta	manzana
-sofá	silla
-cuello	camisa
-labios	beso
-separar	dividir
-pintar	brocha
-puntada	coser
-tirar	pelota
-calabaza	tarta
-veneno	vibora
-saltar	brincar
-ola	oceano
-dibujo	arte
-órgano	piano
-piel	abrigo
-piscina	nadar
-nube	lluvia
-coro	cantar
-estatua	libertad
-descarga	inodoro
-pelota	bate
-hornear	pastel
-comida	cena
-trapo	material
-escalar	montaña
-tortuga	lento
-llorar	lagrimas
-apuñalar	cuchillo
-radio	estéreo
-pulgar	dedo
-dolar	centavos
-altura	alto
-coro	cantar
-miembro	arbol
-garganta	cuello
-poeta	escritor
-caña	azúcar
-empleado	empresa
-escamas	pescado
-dientes	boca
-monja	sacerdote
-sombra	arbol
-tornado	huracán
-pantalones cortos	pantalones
-masa	pan
-esbelto	gordo
-terciopelo	suave
-puñetazo	pegar
-beso	abrazo
-botón	camisa
-lechuga	ensalada
-grano	trigo
-lluvia	mojado
-naranja	fruta
-guitarra	cuerda
-mosquito	morder
-pingüino	pajaro
-cielo  	nube
-uñas	dedo
-sendero	camino
-mancha	punto
-motor	máquina
- química	ciencia
-bodega	sótano
-vara	pesca 
-cráter	luna
-apagado	aburrido
-anillo	dedo
-curva	recta
-camarón 	pescado
-tirar	cachar
-polvo	tierra
-perfume	oler
-estallido	pistola
-mena	hierro
-revolver	huevos
-alce	venado
-nudo	amarrar
-nudo	cuerda
-incienso	oler
-aspirina	jaqueca
-tirar	lanzar
-rabino	sacerdote
-pudín	chocolate
-raso	seda
-cable	teléfono 
-mosca	bicho
- cajón	cómoda
-joya	diamante
-aguacil	policía
-lana	oveja
-tenis	raqueta
-pajaro	mosca
-escalar	arbol
-galón	leche
-cereal	leche
-espada	cuchillo
-escarcha	nieve
-lanzar	cohete
-candado	puerta
-pantalones cortos	camisa
-verdura	fruta
-estafar	 ladrón
-galleta	chocolate
-engañar	trato
-chocolate	caramelo
-gordo	delgado
-ciencia	biología
- sofá 	 sillón
-papa frita	papa
-gorila	chango
-explotar	bomba
-abogar	rogar
-ciruela	fruta
-coca	bebida
-marisco	 camarón
-granito	piedra
-párrafo	 oración
-cosecha	maíz
-ancla	barco
-divorcio	separar
-brocha	dientes
-baya	fruta
-aburrido	cansado
-cortina	ventana
-cocido	res
-bandera	poste
-tambor	palo
-remedio	cura
-cumpleaños	pastel
-laberinto	enredo
-alas	volar
-tomate	verduras
-arrendamiento	alquilar
-miel	abeja
-labio	boca
-dentista	doctor
-garrapata	pulga
-aguja	alfiler
-papel de aluminio	aluminio
-hoyo	agujero
-oveja	cordero
-camello	desierto
-huracán	tormenta
-verdura	fruta
-plátano	fruta
-rastrillo	navaja
-escalera	escalar
-compromiso	anillo
-cuerda	soga
-pierna	pie
-apuesta	apostar
-taza	cerveza
-indicio	pista
-pesca	poste
-carga	pesado
-estaca	cerca
-pato	estanque
-lavanderia	sucio
-moción	movimiento
-manguera	 jardín
-mosquito	bicho
- champaña	vino
-fiestas	vacaciones
-clavos	martillo
-gritar	grito
-tractor	remolque
-horno	estufa
-lechuga	tomate
-ganso	pato
-toalla	seco
-púrpura	color
-bicicleta	paseo
-edredón	cobija
-pegamento	pegajoso
-vampiro	murciélago
-bella	bestia
-cavar	pala
-vibora	morder
-basurero	basura
-cuenta	collar
-calina	neblina
-fiebre	enfermo
-vaquero	caballo
- ladrón	acero
-chaleco	chaqueta
-hambruna	hambre
-asaltante	ladrón
-oponente	enemigo
-cintura	cadera
-arruinar	destruir
-fresa	fruta
- mandíbula	boca
-visión	vista
-sonrojo	avergonzar
-ganga	venta 
-violeta	púrpura
-envidia	celos
-heno	caballo
-húmedo	mojado
-empapar	mojado
-calabaza	Víspera del Día de Todos los Santos
-pastilla	medicina
-encendedor	cigarrillo
-listón	moño
-refresco	coca
-sueldo	salario
-juvenil	delincuente
-preso	 cárcel
-agua tónica	ginebra
-bebida	refresco
-galleta	frasco
-brincar	soga
-capullo	mariposa
-lanzar	transbordador
-granizo	lluvia
-palomitas de maiz	mantequilla
-hermoso	feo
-ajo	pan
-rastrillo	afilado
-perdón	excusa
-cabina	teléfono
-perla	collar
-tierra	arena
-mermelada	confitura
-carro	rueda
-borde	acantilado
-carrete	vara
-terremoto	temblar
-hervidor	 té
-avispa	picadura
-hornear	cocinar
-trigo	pan
-tumba	sepultura
-zanahoria	conejo
-cereza	tarta
-hierba	especia
-deprisa	apurarse
-gorila	simio
-dolorido	herir
-cosecha	granja
-bicho	cucaracha
-niebla toxica	neblina
-término	semestre
-centavo	cinco centavos
-avispa	abeja
-jamón	cerdo
-violación	multa
-ceniza	cigarrillo
-fantasma	espíritu
-derramar	leche
-rancio	pan
-dividir	multiplicar
-cortina	vara
-marinero	barco
-bailarín	ballet
-amargado	agrio
-cerda	brocha
-fingir	falso
-granero	caballo
-campo	cesped
-vergüenza	culpa
-ansioso	nervioso
-doblar	quebrar
-estufa	cocinar
-puro	cigarrillo
-talón	zapato 
-máscara	esconder
- químico	científico
-barril	cerveza
-barriga	 botón
-ruina	accidente
-rubí	diamante
-casco	gorro
-grava	piedras
-hiedra	veneno
-nailon	medias
-órgano 	donante
-almohada	suave
-almeja	ostra
-cocido	sopa
-fraternidad	hermandad
-criada	sirvienta
-jeep	camioneta
-granero	vaca 
-hervidor	olla
-zanahoria	conejo
-saludo	bandera
-escudo	 protección
-trapo	tela
-durazno	fruta
-alergia	estornudar
-muelle	pesca
-descomposición	pudrirse
-trompeta	instrumento
-agente	policía
-bebida	cerveza
-cobre	centavo 
-cautivo	prisionero
-catástrofe	desastre
-cereza	fruta
-rebanada	tarta
-papas fritas	papa
-cebolla	llorar
-jamon	huevos
-enemigo	rival
-vodka	bebida
-tostado	mantequilla
-echar a perder	podrido
-zanahoria	naranja
-esfera	circulo
-granero	heno
-cavar	hoyo
-harina	pastel
- polución	niebla toxica
-tostador	pan
-casarse	casar
-uapiti	alce
-falda	blusa
-flaco	delgado
-horneado	papa
-escombro	basura
-hambriento	padecer de hambre
-tesoro	cofre
-zanahoria	verduras
-pascua	huevos
-heroína	héroe
-escaleras	escalar
-vaquera	vaquero
-oler	peste
-calabaza	naranja
-ron	licor
-tenue	brillante
-tortuga	concha
-mimbre	canasta
-pulir	brillo
-deslizar	resbalar
-patio de recreo	columpio
-trofeo	galardón
-pulgar	uña
-enjuagar	lavar
-estomago	dolor
-basurero	basura
-suéter	tibio
-taberna	bar 
-guerrero	luchador
-nido	huevo 
-paja	heno
-pinta	leche
-aflojar	apretar
-tres	cuatro
-papas  	papas fritas
-arrecife	océano
-avena	caballo
-aguja	coser
-posada	motel
-tragar	pajaro
-flotar	hundirse
-tejer	estambre
-jarabe	arce
-pepino	verduras
-saltar	brincar
-disfrazar	máscara
-obstruir	desagüe
-diploma	graduación 
-doble	dos
- búho	pajaro
-gastrónomo	cocinero
-peste	bicho
-fragancia	perfume
-póquer	ficha
- mandíbula 	dientes
-lana	suéter
-desordenado	limpio
-escalera mecánica	ascensor
-riesgo	peligro
-pala	tierra
-pasillo	corredor
-compañero	amigo
-avena	desayuno
-moneda 	centavo 
-tocar el violín	violín
-mariscos	langosta
-luna de miel	boda
-detergente	 jabón
-esponjoso	suave
-robo	robar
-avena	cereal
-peaje	caseta
-canela	especia
-furia	ira
-nailon	calceta
-flauta	intrumento
-adjetivo	sustantivo
-repollo	lechuga
-correa	cinturón
-tos	estornudar
-mula	caballo
-horno	hornear
-acarrear	cargar
-colorete	sonrojarse
-maldición	bruja
-tenso	nervioso
-medalla	galardón
-alerta	despierto
-alojar	cabaña
-limón	agrio
-guerrero	soldado
-derretir	mantequilla
-cemento	acera
-esmeralda	diamante
- mamífero	ballena
-apacible	suave
-esbelto	delgado
-patos	estanque
-zanahoria	verduras
-nube	humo
-coñac 	licor
-canela	tostado
-insignia	policía
-escudo	armadura
-cebolla	oler
-tachuela	pulgar
-apio	zanahoria
-ascensor	escalera
-porche	columpio
-champaña	burbuja
-sable	espada
-pantano	lodo
-deterioro	diente 
-balsa	flotar
-pavimiento	acera
-marinero	armada
-bata	baño
-sepelio	funeral
-dia de campo	canasta
-fábula	cuento
-ordenado	desordenado
-cuerda	papalote
-placa	galardón
-barrera	arrecife
-laberinto	rompecabezas
-losa	hormigón
-cien	mil
-lagarto	vibora
-pascua	conejo
-ambición	meta
-raso	 sábanas 
-ángulo	geometría
-denso	grueso
-estallar	burbuja
-grasa de ballena	ballena
-hormiga	insecto
-incorrecto	correcto
-dia de campo	hormiga
-apio	verduras
-ajedrez	juego de damas
-cera	vela
-ostra	concha
-talón	dedo
-garganta	doloroso
-papel de aluminio	estaño
-mandibula	tiburón
-hostilidad	ira
-charco	lodo
-tejer	cocer
-archivador	carpeta
-violeta	flor
-mortífero	veneno
-migaja	pastel
-peso	libra
-peldaño	escalera
-floración	florecer
-mayordomo	sirviente
-cuatro	cinco
-sordo	ciego
-trago	tragar
-engañar	mentir
-ascender	descender
-escarabajo	jugo
-cartera	bolsa
-langosta	cangrejo
-tapadera	frasco
-triunfo	victoria
-encintado	acera
-percatación	alerta
-casarse	divorcio
-enchufe	clavija
-neutrón	electrón
-fideos	espagueti
-alacena	armario
-orquesta	 violín
-silbar	soplar
-cojear	pierna
-canasta	entrelazar
-tachuela	clavo
-valiente	valentia
-convencer	persuadir
-bulto	batacazo
-fideos	sopa
-vapor	vapor
-disfrazar	esconder
-silencioso	ruidoso
-fétido	oler
-condimento	especia
-estallar	explotar
-susurrar	silencioso
- confesión	sacerdote
-ratero	ladrón
-organizar	aseado
-rayo	relámpago 
-descongelar	congelar
-costumbre	 tradición
-flexible	doblar
-bufanda	cuello
-sincero	honesto
-melaza	jarabe
-cerrojo	seguro
-almidón	tieso
- grados centígrados	fahrenheit
- precaución	peligro
-ahogarse	tos 
-crochet	tejer
-frustración	ira
-altura	alto
-derramar	desorden 
-violonchelo	violín
-acarrear	jalar
-rin	llanta
-habilidad	talento
-choza	paja
-monarca	gobernante
-sacudir	traqueteo
-gritar	ruidoso
-frasco	mermelada
-mayonesa	mostaza
-bastilla	falda
-gritar	grito
-mildiu	moho
-ordenado	aseado
-destino	hado
- rígido	tieso
-entrelazar	cocer
-querencia	fantasma
-migaja	galleta
- náusea	vómito
-perla	ostra
-rastrillo	afeitar
-pronombre	sustantivo
-deshonra	pena
-demacrado	embriagado
-saliente	acantilado
-mermelada	tostado
-cuarto de galón	pinta
-mito	leyenda
-tubo respirador	máscara
-enfermedad	enfermo
-grifo	lavabo
-crujiente	dulce
-whiskey	bebida
-sartén	 freír
-rocío	mojado
-bruja	escoba
-cautivo	 rehén
-menos	restar
-huerta	flor
-gema	joya
-advertir	peligro
- látigo	azotar
-tubo respirador	nadar
-asalto	robo
-agravar	molestar
-calceta	medias
- aflicción	tristeza
-cloro	blanqueador
-esmoquin	baile de graduación
-escocés	whisky
-hamburguesa	bollo
-contenedor	tupperware
-sarpullido	comezón
- chófer	limusina
-fabricante	creador
-lavaplatos	 jabón
-querencia	asustar
-cinco	seis
-principiante	novato
- borbón	whisky
-antídoto	veneno
-disminuir	lección
-tranquilo	callado
-puntuación 	 gramática 
-cauteloso	cansado
-persiana	cortina
-patos	graznar
-remendar	cocer
-zanja	foso
-banquero	cajero
-electrodoméstico 	estufa
-brillante	opaco
-grácilmente	ballet
-clarinete	flauta
-cubiertos	tenedor
-peso	balanza
-esbelto	delgado
-regañar	gritar
-estera	tapete
-pepinillos	frasco
-vela	llama
-asar	hornear
-laca	pegajoso
-mariposa	polilla
-esbelto	delgado
-tubo respirador	bucear
-costura	puntada
-cosechar	sembrar
-neutrón	átomo
-cuarto de galón	galón
-melodía	tonada
-costura	cocer
-hongo	moho
-serpentear	gusano
-afeitar	barba
-sed	hambre
-gotera	grifo
-huella	llanta
-salsa de pepinillos	pepinillos
-hebilla	zapato
- negación	rehusar
-maquinilla	tijeras
-vomito	devolver
-tener cuidado	peligo
-camello	joroba
-cerrojo	candado
-puño 	manga
-dedal	cocer
-chabola	choza
-manchar	desorden
-haraganear	perezoso
-salvado	hojuela
-esponja	empapar
-bastilla	cocer
-ridículo	reír
-cactus	espinoso
-antídoto	cura
-carne de carnero	cordero
-crepúsculo	anochecer
-temperamento	ira
-lámpara 	bombilla
-servir	derramar
-galón	jarro
-adjetivo	verbo
-bailarina	bailarín
-cavar	pala
-engrudo	pegajoso
-alforja	mochila
-daga	espada
-acurrucar	abrazo
-robo	hurto
-bandido	 ladrón
-paleta	piruleta
-huerto	bosquecillo
-escalofrío	temblar
-media	calceta
-educado	grosero
-divertir	entretener
-mentiroso	engañar
-depilar	cejas
-berrinche	temperamento
-tallo	maíz
-furtivo	taimado
-sediento	hambriento
-agrio	ácido
-tranquilo	calmado
-engreído	arrogante
-dragón	calabozo
-pepinillos	agrio
-gallo 	cuervo
-as 	venda
-tifón	laguna
- calabacín	calabacita
-robo	ladrón
-buceador	buceo
-servilleta	limpiar
-adivinanza	rima
-duna	calesa
-relleno	 cojín
-témpano	lechuga
-Júpiter	Saturno
-afelpada	tapete
-pepinillos	agrio
-solapa	cuello
-turbar	molestar
-energético	hiperactivo
-azotar	castigar
-obsesión	perfume
-ajetreo	bullicio
-barrio bajo	gueto
-aficionado	principiante
-zueco	zapato
-haragán	desordenado
-inhalar	respirar
-bandido	ladrón
-champiñón	hongo
-cebada	avena
-contralto	saxofón
-nailons	medias
-adverbio	sustantivo
-cobarde	débil
-resta	menos
-estallar	explotar
-tranquilo	en paz
-aderezo	dulce de azucar
-repulsivo	asqueroso
-ropa interior	bragas
-azada	rastrillo
-serpentear	sacudir
- fotocopiadora	fotocopia
-débil	empollón
-calesa	carreta
-pantuflas	bata
-remordimiento	culpa
-lamer	paleta
-filósofo	Sócrates
-enchufe	llave inglesa
-nadador	buceador
-pastelería	dona
-molestar	irritar
-magnificar	aumentar
-sermón	predicador
-tetera	hervidor
-babosa	caracol
-crujir	crujiente
-ornamento	decoración
-siete	ocho
-hambruna	pasar hambre
-empollón	menso
-mareado	desmayarse
-cuidado	 precaución
-salvado	avena
-aleatar	mariposa
-persiana	sombras
-presumido	arrogante
-adjetivo	adverbio
-nabo	verduras de hoja
-asombro	asombrar
-pestaña	rímel
-desplumar	plumas
-ancianos	abuelo
-prohibir	impedir
-deshonesto	mentiroso
-robo	ladrón
-almizcle	colonia
-camarera	mesera
-valentía	valor
-tylenol	jaqueca
-frustrar	molestar
-vulgar	grosero
-principiante	iniciador
-viscoso	menjunje
-arrogante	presumido
-marfil	colmillo
-caracol	viscoso
-trance	hipnotizar
-cejas	pestañas
-escamas	caspa
-neblina	 rocío 
-hollín	chimenea
-torpe	patoso
-osado	valiente
-gimnasta	atleta
-desvanecerse	desmayarse
-pluma	pergamino
-incredulidad	creer
-mimbre	vela
- escocés	raya
-aroma	olor
-adverbio	sustantivo
-acechar	presa
-separar	adjuntar
-licuadora	batidora
-dinosaurio	 jurásico
-mimo	imitar
-ascensión	descenso
-varita mágica	hada
-puré	aplastar
-llave inglesa	destornillador
-acurrucarse	abrazarse
-apretado	tenso
-bloqueo	barricada
-húmedo	mojado
-regañar	castigar
-descomponerse	pudrirse
-voltio	 relámpago
-débil 	 frágil 
-orégano	espaguetis
-cornamenta	cuernos
-vocear	gritar
-traidor	mentiroso
-gimnasia	voltereta
-maletín 	maleta
- vudú	 brujería
-compulsión	obsesión
-uña del pie	cortaúñas
-balde	pala
-discapacidad	incapacitar
-ahogarse	estrangular
-hediondez	olor
- axón	dendrita
-previsión	retrospectiva
-asfixiar	almohada
-ingenioso	astuto
-vaselina	mermelada
-neptuno	Plutón 
-bellota	nuez
-rancio	olor
-ajetreo	apurarse
-kleenex	estornudar
-ternera	parmesano
-tocar el claxon	pitido
-cervato	cierva
-masticar ruidosamente	masticar
-descongelar	derretirse
-mora	arándano
-nailon	pantys
-técnico	electricista
-baboso	resbaladizo
-galope	trote
- tacaño	avaro
-espantar	asustar
-compadecer	pena
-agresivo	mandón
-adornar	decorar
-pañuelo	estornudar
-cavador	zanja
-iglú	esquimal
-asfixiar	sofocar
-bandido	humeante
-cortinas	persiana
-desintegrarse	disolverse
-ulular	vocear
-cornamenta	reno
-nómada	vagabundo
-con náuseas	vómito
-electricista	plomero
-asteroide	meteoro
-ataúd	féretro
-tutú	bailarina
-diez	veinte
-agravar	irritar
-curiosidad	metiche
-almizcle	olor
-arrepentimiento	perdonar
-crujiente	gomoso
-barranca	zanja
-equilibrio	postura
-seriedad	honestidad
-enanos	duendes
-caspa	 champú
-deshonra	vergüenza
-bufanda	 pañuelo
-cometa	cupid
-serpentear	retorcerse
-chantaje	soborno
-almizcle	olor
-coyote	aullar
-hediondez	apestar
-pizarrón 	borrador
-frustrar	irritar
-baba	rezumar
-creído	arrogante
-rancio	mojado
-difamación	calumnia
-deshelar	descongelar
-triciclo	tres
-uña	uña del pie
-licuadora	daiquiri
-diez	once
-copo	caspa
-agresivo	empujón
-grillo	pío
-meteorito	cometa
-sinceridad	bondad
-pelusa	tamo
-virar	viraje
-espejismo	ilusión
-chillido	chillar
-vaselina	grasiento
-pasarela 	corredor
-deshelar	derretir 
-coyote	correcaminos
-cinco	diez
-sorber	tragar
-bandanna	bufanda
-pañuelo	kleenex
-pañuelo	mocos
-centelleo	destellar
-barranco	helecho
-tostado	quemado
-enanos	siete
-vatio	voltio
-gimnasta	acróbata 
-dócil 	humilde
-erosionar	carcomer
-dormitar	siesta
-aflojar	desatar
-sofocar	ahogarse
-reprender	regañar
-pizarrón 	pizzara
-principiante	aprendiz
-abrazarse	suavizante
-grano	acné
-bolonia	salami
-metiche	entrometido
-mocos	moco reseco
-altivo	arrogante
-maletín 	adjunto
-engreído	creído
-temblar	 escalofrío 
-termita	peste
-péndulo	hipnotizar
-horóscopo 	acuario
-trance	aturdimiento
-chillar	chismosear
-pomada	apaciguar
-valor	 valentía 
-radiador	refrigerante
-vaselina	lubricante
-gimnasta	flexible
-bondad	amabilidad
-seriedad	veracidad
-persiana	vertical
-horóscopo	astrología
-gasa	curita
-chillido	rechinar
-apático	insensible
-asombrar	sorprender
-borronear	garabatear
-copiador	tramposo
-cizallas	podadora
-diadema	pañuelo
-plomo	flotador
-doce	once
-curita	rasponcito
-acariciar	toquetear
-asombrar	pasmar
-sorber	medio derritido
-pomada	neosporin
-lubricar	vaselina
-vaselina	agrietado
-mentol	eucalipto
-periscopio	caleidoscopio
-lubricar	humedecer
-pañuelo	moco
-desheredar	no amado
-verruga	mancha
-tacañano	avaro
-culebrear	escabullirse
-volante	pliegue
-grano	mancha
-lienzo	lona
-diadema	pulsera
-hipnotizar	cautivar
-altivo	creído
-pañuelo	pañoleta
-santidad	devoción
-demonio necrófago	duende
-verruga	grano
-tacto	buenos modales
-clip	atar
+word1	word2	word1_frq	word2_frq	mean_frq
+mujer	hombre	588.294685	1138.548826	863.4217555
+par	dos	185.323893	1313.927013	749.625453
+madre	padre	613.283244	819.270256	716.27675
+casa	hogar	1349.157424	72.404136	710.78078
+doble	dos	64.099115	1313.927013	689.013064
+clima	tiempo	19.126192	1287.689025	653.4076084999999
+sobre	carta	1063.963595	109.359536	586.6615654999999
+persona	gente	282.749014	861.984265	572.3666395
+papá	mamá	561.315254	550.429234	555.8722439999999
+eternidad	siempre	13.642111	1014.898687	514.270399
+hija	hijo	272.167785	674.092343	473.130064
+progenitor	padre	0.304791	819.270256	409.7875235
+tres	cuatro	563.699543	240.638103	402.168823
+efectivo	dinero	34.828346	727.422167	381.1252565
+dólar	dinero	18.469053	727.422167	372.94561
+compañero	amigo	74.366905	649.75876	362.0628325
+enemigo	amigo	71.965323	649.75876	360.86204150000003
+esfera	mundo	5.771579	698.35243	352.0620045
+cerrojo	seguro	3.082499	680.28328	341.6828895
+dama	mujer	53.314692	588.294685	320.8046885
+entrar	salir	235.532309	385.027017	310.279663
+chico	niño	334.189564	272.401243	303.2954035
+resta	menos	1.567189	602.085949	301.826569
+hermana	hermano	205.697351	369.154093	287.425722
+agente	policía	157.942398	392.849992	275.396195
+cuatro	cinco	240.638103	257.68912	249.1636115
+ciudad	pueblo	305.461367	179.545829	242.503598
+cerebro	cabeza	89.578367	383.295543	236.436955
+bajo	alto	269.751072	199.130289	234.4406805
+marido	esposa	153.625602	294.419709	224.02265549999998
+lejos	cerca	182.334345	262.650084	222.4922145
+cinco	seis	257.68912	181.121665	219.4053925
+niña	niño	157.951044	272.401243	215.17614350000002
+policía	patrulla	392.849992	19.418013	206.13400249999998
+alguacil	policía	17.066149	392.849992	204.9580705
+cinco	diez	257.68912	151.113777	204.40144850000001
+cuidado	peligro	306.771321	92.931071	199.85119600000002
+cuenta	recibo	378.833918	20.19188	199.512899
+insignia	policía	5.144704	392.849992	198.997348
+manos	pies	286.062808	90.190111	188.1264595
+capitán	barco	254.11809	115.699626	184.908858
+médico	doctor	125.783677	236.37751	181.0805935
+cama	dormir	177.773284	179.132956	178.45312
+mano	brazo	284.056806	67.157836	175.607321
+veloz	rápido	7.440365	334.833733	171.137049
+planeta	tierra	82.083961	256.459147	169.27155399999998
+candado	puerta	2.929022	334.183079	168.5560505
+dedos	manos	48.358051	286.062808	167.2104295
+sendero	camino	6.727024	324.416789	165.5719065
+dedo	mano	43.859678	284.056806	163.95824199999998
+inteligente	listo	75.201298	250.830236	163.015767
+nariz	cara	53.124468	269.742425	161.4334465
+cuidado	precaución	306.771321	7.133412	156.9523665
+temor	miedo	14.078762	299.369865	156.7243135
+agua	nadar	286.977182	24.966943	155.97206250000002
+comida	cena	200.273796	106.469423	153.3716095
+patrón	jefe	24.787527	280.866225	152.826876
+polvo	tierra	42.37247	256.459147	149.4158085
+loco	enojado	267.17872	31.551299	149.36500949999999
+gerente	jefe	16.651114	280.866225	148.7586695
+propiedad	tierra	38.360466	256.459147	147.4098065
+tierra	arena	256.459147	32.787757	144.623452
+adulto	niño	15.622173	272.401243	144.011708
+arma	pistola	197.558776	78.290282	137.924529
+vela	llama	14.772649	259.775103	137.273876
+doctor	enfermera	236.37751	35.984823	136.1811665
+barro	tierra	9.50257	256.459147	132.98085849999998
+pala	tierra	6.275241	256.459147	131.36719399999998
+lodo	tierra	5.564062	256.459147	131.01160449999998
+plasma	sangre	7.124766	250.728639	128.9267025
+acre	tierra	1.05488	256.459147	128.7570135
+donante	sangre	5.890469	250.728639	128.309554
+rey	reina	174.35357	80.464892	127.409231
+vergüenza	culpa	47.004865	204.620855	125.81286
+cirujano	doctor	13.925286	236.37751	125.151398
+dentista	doctor	12.044659	236.37751	124.2110845
+coche	gasolina	216.989759	25.998046	121.49390249999999
+oscuro	luz	48.476942	186.837041	117.6569915
+cielo	azul	158.878388	72.784585	115.83148650000001
+té	café	72.706766	155.778596	114.242681
+escuela	lección	195.440369	31.819343	113.629856
+cable	teléfono	25.301998	201.88638	113.594189
+altura	alto	26.713549	199.130289	112.921919
+altura	alto	26.713549	199.130289	112.921919
+estúpido	tonto	110.085847	115.377542	112.7316945
+centavos	dólares	26.9924	197.913285	112.4528425
+cabina	teléfono	18.376103	201.88638	110.1312415
+champán	vino	14.982328	202.612691	108.7975095
+cine	película	61.046879	152.004372	106.52562549999999
+perro	gato	156.541655	54.970508	105.7560815
+hambriento	comida	10.799554	200.273796	105.536675
+remordimiento	culpa	4.133056	204.620855	104.37695550000001
+comer	masticar	205.249892	2.416714	103.833303
+comprar	tienda	104.727141	100.918331	102.82273599999999
+viaje	vacaciones	148.046409	57.523405	102.784907
+perdón	excusa	178.570929	26.823792	102.6973605
+comida	hormiga	200.273796	2.756091	101.5149435
+incredulidad	creer	0.477722	202.160908	101.319315
+carretera	calle	39.583954	163.035222	101.309588
+ruidoso	alto	3.424038	199.130289	101.2771635
+cámara	foto	94.310197	105.693394	100.0017955
+aldea	pueblo	19.701188	179.545829	99.6235085
+siete	ocho	104.997346	92.829474	98.91341
+luna	sol	84.485543	111.596833	98.041188
+cien	mil	42.845869	151.180787	97.013328
+quemar	fuego	12.801233	180.946572	96.8739025
+infantil	bebé	14.40517	179.154572	96.779871
+dientes	boca	56.038359	135.271116	95.65473750000001
+inteligente	tonto	75.201298	115.377542	95.28942
+sábanas	cama	10.531511	177.773284	94.15239749999999
+vista	ojo	115.046811	72.213912	93.63036149999999
+vuelo	avión	72.233367	113.267781	92.750574
+diez	veinte	151.113777	32.623473	91.868625
+estación	tren	73.005072	108.635386	90.820229
+lengua	boca	43.952629	135.271116	89.6118725
+avión	volar	113.267781	63.949962	88.60887149999999
+avenida	calle	13.490796	163.035222	88.263009
+pierna	pie	54.414967	119.140957	86.777962
+soldado	ejército	66.202391	106.160308	86.18134950000001
+cielo	nube	158.878388	11.830656	85.354522
+cárcel	prisión	92.403631	78.180039	85.29183499999999
+diez	once	151.113777	19.015948	85.0648625
+incorrecto	correcto	6.720539	161.221606	83.9710725
+esconder	buscar	15.60488	148.649507	82.1271935
+cachorro	perro	7.018846	156.541655	81.7802505
+silla	mesa	52.562441	110.583024	81.5727325
+pie	dedo	119.140957	43.859678	81.5003175
+sabor	gusto	19.17591	142.586106	80.881008
+zapatos	pies	70.763451	90.190111	80.476781
+barco	bote	115.699626	42.39841	79.04901799999999
+foto	imagen	105.693394	51.689139	78.6912665
+bar	cerveza	77.224594	78.355131	77.7898625
+estómago	dolor	32.262479	122.528247	77.395363
+traje	camisa	113.380186	39.136495	76.2583405
+ropa	calzones	143.630178	7.0383	75.334239
+visión	vista	35.081258	115.046811	75.0640345
+carne	piel	86.106773	62.743766	74.4252695
+correo	carta	36.860287	109.359536	73.10991150000001
+almuerzo	cena	38.008118	106.469423	72.2387705
+oxígeno	aire	17.035886	125.95877	71.497328
+hielo	frío	57.158088	85.596626	71.377357
+riesgo	peligro	49.10814	92.931071	71.0196055
+maldición	bruja	111.062908	30.697451	70.8801795
+mandíbula	boca	5.98342	135.271116	70.627268
+tranquilo	callado	126.365159	14.121995	70.243577
+juez	corte	62.088789	78.363778	70.2262835
+labio	boca	4.424877	135.271116	69.84799650000001
+techo	piso	40.941464	96.486969	68.7142165
+entrada	salida	63.768384	73.599523	68.6839535
+universidad	colegio	89.336263	47.586346	68.4613045
+cumpleaños	pastel	94.8679	41.609411	68.23865550000001
+estudiante	maestro	30.874706	104.534755	67.7047305
+cantar	canción	47.502042	87.509677	67.5058595
+campo	césped	125.303793	9.340447	67.32212
+pie	zapato	119.140957	14.969358	67.055157500000007
+tranquilo	calmado	126.365159	7.425234	66.8951965
+sed	hambre	22.208691	111.449842	66.8292665
+deshonra	pena	3.322441	129.196907	66.259674
+profesor	maestra	106.916882	22.57617	64.746526
+compadecer	pena	0.218326	129.196907	64.7076165
+tren	vía	108.635386	20.364812	64.500099
+tranquilo	sereno	126.365159	2.241621	64.30339000000001
+bala	pistola	49.233516	78.290282	63.761899
+enfermedad	enfermo	50.880685	76.545839	63.713262
+enfermedad	enfermo	50.880685	76.545839	63.713262
+marinero	barco	10.808201	115.699626	63.253913499999996
+plata	oro	33.578918	92.414439	62.9966785
+botella	cerveza	47.240483	78.355131	62.797807
+armada	ejército	19.188879	106.160308	62.6745935
+crucero	barco	9.234527	115.699626	62.4670765
+albornoz	baño	0.773867	123.695533	62.2347
+pistola	disparar	78.290282	44.912397	61.6013395
+posada	hotel	5.583516	117.351119	61.4673175
+navegación	barco	5.940187	115.699626	60.819906499999995
+pierna	brazo	54.414967	67.157836	60.7864015
+sello	carta	11.214589	109.359536	60.287062500000005
+azúcar	dulce	28.25696	91.5995	59.92823
+ruina	accidente	8.177485	111.140727	59.659106
+compromiso	boda	28.892482	90.397629	59.6450555
+ancla	barco	3.277046	115.699626	59.488336
+navío	barco	2.085983	115.699626	58.8928045
+regresar	devolver	100.185535	17.029401	58.607468
+sal	pimienta	111.77624900000001	5.164158	58.470203500000004
+ferrocarril	tren	7.870532	108.635386	58.252959
+disparo	pistola	37.817894	78.290282	58.05408800000001
+tonto	menso	115.377542	0.001	57.689271000000005
+galleta	caja	8.730864	106.504009	57.6174365
+póquer	carta	5.691598	109.359536	57.525567
+hermoso	feo	85.319936	29.607985	57.4639605
+caballero	dama	60.383255	53.314692	56.8489735
+hambruna	hambre	1.549896	111.449842	56.499869000000004
+mar	océano	87.453475	25.479252	56.4663635
+anillo	dedo	69.06224	43.859678	56.460959
+alcohol	cerveza	34.493292	78.355131	56.4242115
+bosque	árbol	57.702822	53.963184	55.833003
+divorcio	matrimonio	27.076704	84.550392	55.813548
+ceremonia	boda	20.756069	90.397629	55.576848999999996
+enanos	siete	5.728346	104.997346	55.362846
+bebida	beber	31.583724	78.936613	55.2601685
+bebida	cerveza	31.583724	78.355131	54.9694275
+montar	caballo	20.241598	89.284384	54.762991
+instructor	maestro	4.156834	104.534755	54.345794500000004
+princesa	príncipe	53.62813	55.028873	54.3285015
+estatua	libertad	13.464856	93.592533	53.5286945
+preso	cárcel	13.750193	92.403631	53.076912
+oreja	oír	15.667568	88.069542	51.868555
+vaquero	caballo	14.262502	89.284384	51.773443
+asiento	silla	50.880685	52.562441	51.721563
+sonido	ruido	47.432869	55.839488	51.6361785
+rancho	caballo	13.624818	89.284384	51.454601000000004
+jurado	juez	40.679906	62.088789	51.384347500000004
+fiebre	enfermo	25.809983	76.545839	51.177911
+espada	cuchillo	54.702465	47.192927	50.94769599999999
+espada	cuchillo	54.702465	47.192927	50.94769599999999
+botella	leche	47.240483	53.223903	50.232192999999995
+caramelos	dulce	8.689793	91.5995	50.1446465
+basura	basurero	93.263963	6.925895	50.094929
+basurero	basura	6.925895	93.263963	50.094929
+basurero	basura	6.925895	93.263963	50.094929
+precaución	peligro	7.133412	92.931071	50.0322415
+media	calceta	99.640802	0.149153	49.894977499999996
+infeliz	triste	17.087765	82.555198	49.821481500000004
+fantasma	espíritu	41.553208	57.428293	49.4907505
+casarse	casar	69.274081	29.015695	49.144887999999995
+motor	máquina	33.246025	64.85785	49.0519375
+granero	caballo	8.741673	89.284384	49.013028500000004
+compromiso	anillo	28.892482	69.06224	48.977361
+encantado	fantasma	55.51308	41.553208	48.533144
+rifle	pistola	18.427982	78.290282	48.359132
+jinete	caballo	7.304182	89.284384	48.294283
+carruaje	caballo	7.105311	89.284384	48.1948475
+saco	bolsa	30.43157	65.949479	48.190524499999995
+casarse	divorcio	69.274081	27.076704	48.1753925
+taxi	carro	58.852814	37.290454	48.071634
+campana	iglesia	11.97981	83.910547	47.9451785
+advertir	peligro	2.637201	92.931071	47.784136000000004
+amargo	dulce	3.873659	91.5995	47.736579500000005
+mula	caballo	5.98342	89.284384	47.633902
+melodía	canción	6.973451	87.509677	47.241564
+camisa	pantalones	39.136495	54.724082	46.9302885
+camisa	pantalones	39.136495	54.724082	46.9302885
+pantalones	camisa	54.724082	39.136495	46.9302885
+ventana	vidrio	80.709158	12.881214	46.795186
+escombro	basura	0.211841	93.263963	46.737902000000005
+crujiente	dulce	1.664463	91.5995	46.6319815
+avena	caballo	3.653172	89.284384	46.468778
+falda	vestido	9.4896	83.220983	46.3552915
+dulce	agrio	91.5995	0.849525	46.2245125
+heno	caballo	3.147348	89.284384	46.215866
+consejo	sugerencia	82.230952	9.75332	45.992136
+robo	robar	46.367181	45.521979	45.94458
+suéter	frío	5.79968	85.596626	45.698153
+ancianos	abuelo	10.989778	80.296284	45.643031
+destino	hado	90.360881	0.181578	45.271229500000004
+labios	beso	32.584563	57.947087	45.26582500000001
+labios	beso	32.584563	57.947087	45.26582500000001
+bistec	carne	4.357867	86.106773	45.23232
+aburrido	cansado	31.717746000000002	58.457234	45.08749
+verano	invierno	59.693692	29.646894	44.670293
+huevos	pollo	48.0792	40.684229	44.3817145
+explotar	bomba	18.311254	70.367871	44.3395625
+garganta	cuello	24.977752	63.649494	44.313623
+guerrero	soldado	21.421854	66.202391	43.8121225
+res	carne	1.407228	86.106773	43.757000500000004
+cortina	ventana	6.737832	80.709158	43.723495
+cráter	luna	2.911729	84.485543	43.698636
+carne	salami	86.106773	1.003001	43.554887
+cartera	bolsa	20.920353	65.949479	43.434916
+primavera	verano	26.988077	59.693692	43.3408845
+alarma	reloj	27.681963	58.329697	43.00583
+robo	ladrón	46.367181	39.445609	42.906395
+robo	ladrón	46.367181	39.445609	42.906395
+barril	cerveza	7.373354	78.355131	42.8642425
+alas	volar	21.776363	63.949962	42.8631625
+limpio	sucio	47.270746	38.038381	42.6545635
+ladrón	robar	39.445609	45.521979	42.483794
+llave	candado	81.997495	2.929022	42.4632585
+gripe	enfermo	8.199101	76.545839	42.37247
+medialuna	luna	0.209679	84.485543	42.347611
+fiestas	vacaciones	26.905935	57.523405	42.21467
+arroyo	río	6.705408	77.349969	42.027688500000004
+taberna	bar	6.396293	77.224594	41.8104435
+sombra	árbol	29.346426	53.963184	41.654804999999996
+gotera	llave	1.003001	81.997495	41.500248
+bella	bestia	50.872039	31.942556	41.4072975
+arena	playa	32.787757	49.235677	41.011717000000004
+playa	arena	49.235677	32.787757	41.011717000000004
+ballet	bailar	9.014039	72.845111	40.929575
+radio	estéreo	79.889896	1.949799	40.919847499999996
+bar	cantina	77.224594	4.146026	40.68531
+diamante	anillo	12.280278	69.06224	40.671259
+escritorio	silla	28.213727	52.562441	40.388084
+ganado	vaca	59.544539	20.663118	40.1038285
+bestia	animal	31.942556	48.146211	40.0443835
+esmoquin	baile	3.326764	76.364261	39.8455125
+enemigo	rival	71.965323	7.423072	39.6941975
+sorber	beber	0.278852	78.936613	39.6077325
+ridículo	reír	58.643135	20.321579	39.482357
+tormenta	lluvia	39.39373	39.454256	39.423992999999996
+oponente	enemigo	6.097987	71.965323	39.031655
+heroína	héroe	17.340677	60.318406	38.829541500000005
+bota	zapatos	6.698923	70.763451	38.731187
+dibujo	arte	13.940417	62.895081	38.417749
+tocar	violín	69.06224	7.764611	38.4134255
+valentía	valor	7.61762	68.690438	38.154029
+valor	valentía	68.690438	7.61762	38.154029
+sofá	silla	23.564039	52.562441	38.06324
+artículo	periódico	31.22273	44.592474	37.907602
+cinturón	pantalones	20.836049	54.724082	37.7800655
+cobarde	débil	34.880225	40.347013	37.613619
+atómica	bomba	4.796679	70.367871	37.582274999999996
+beso	abrazo	57.947087	16.123674	37.0353805
+vaca	leche	20.663118	53.223903	36.9435105
+vaca	leche	20.663118	53.223903	36.9435105
+ajedrez	damas	9.91112	63.580321	36.7457205
+carga	pesado	50.290558	23.112256	36.701406999999996
+codo	brazo	6.167159	67.157836	36.6624975
+zapatos	calcetín	70.763451	2.2935	36.5284755
+altura	peso	26.713549	46.265584	36.489566499999995
+hervidor	té	0.146992	72.706766	36.426879
+roca	piedra	24.744295	48.105139	36.424717
+camioneta	carro	35.249866	37.290454	36.27016
+llorar	lágrimas	49.261617	22.982558	36.1220875
+púrpura	color	5.246301	66.537445	35.891873000000004
+masa	pan	16.363616	55.350957	35.8572865
+árbol	naranja	53.963184	16.94942	35.456302
+hoja	árbol	16.635982	53.963184	35.299583
+mantequilla	pan	14.930448	55.350957	35.1407025
+trago	tragar	64.438492	5.371676	34.905083999999995
+caballero	armadura	60.383255	9.366387	34.874821
+reír	llorar	20.321579	49.261617	34.791598
+césped	verde	9.340447	60.074141	34.707294
+fútbol	pelota	36.399858	32.874223	34.6370405
+asalto	robo	22.82692	46.367181	34.5970505
+jardín	flor	43.900749	25.289028	34.594888499999996
+gato	ratón	54.970508	13.97068	34.470594
+dentista	dientes	12.044659	56.038359	34.041509
+bufanda	cuello	4.238976	63.649494	33.944235
+hamburguesa	pan	12.299732	55.350957	33.8253445
+deuda	deber	23.879639	43.451128	33.6653835
+escocés	inglés	6.733509	59.181383	32.957446
+rodilla	pierna	11.471824	54.414967	32.9433955
+palacio	castillo	28.991917	36.65277	32.8223435
+abrigo	chaqueta	34.396018	31.244346	32.820182
+whisky	bebida	34.045832	31.583724	32.814778
+ministro	sacerdote	45.777053	19.515287	32.64617
+habilidad	talento	24.798336	39.841189	32.319762499999996
+solapa	cuello	0.84304	63.649494	32.246266999999996
+cepillo	dientes	8.415265	56.038359	32.226812
+bebido	borracho	15.48599	48.623933	32.0549615
+bicicleta	paseo	18.616045	45.225835	31.920939999999998
+tirar	pelota	30.265123	32.874223	31.569673
+alerta	despierto	32.537007	30.377529	31.457268
+pez	pescado	31.717746000000002	31.075739	31.396742500000002
+ansioso	nervioso	10.4645	52.127952	31.296226
+brisa	viento	7.191777	55.069944	31.1308605
+rama	árbol	8.28989	53.963184	31.126537
+rosa	flor	36.94243	25.289028	31.115729
+mandíbula	dientes	5.98342	56.038359	31.0108895
+botón	camisa	22.805303	39.136495	30.970898999999996
+empleado	empresa	17.995654	43.745111	30.870382499999998
+trigo	pan	6.100148	55.350957	30.7255525
+ajo	pan	5.961803	55.350957	30.65638
+daga	espada	6.454657	54.702465	30.578560999999997
+horneado	papa	0.533925	60.082787	30.308356000000003
+cigarrillo	fumar	26.938359	33.481644	30.2100015
+uñas	dedo	16.374424	43.859678	30.117051000000004
+velocidad	rapidez	54.404159	5.529475	29.966817
+triunfo	victoria	8.134252	51.738857	29.9365545
+escalar	árbol	5.330605	53.963184	29.6468945
+ruidoso	ruido	3.424038	55.839488	29.631763000000003
+muelle	bote	16.785136	42.39841	29.591773
+coro	cantar	11.437238	47.502042	29.469640000000002
+coro	cantar	11.437238	47.502042	29.469640000000002
+puro	fumar	25.286866	33.481644	29.384255000000003
+tostada	pan	3.417553	55.350957	29.384255
+moción	movimiento	4.476757	54.082074	29.2794155
+sable	espada	3.772062	54.702465	29.237263499999997
+pino	árbol	4.483242	53.963184	29.223212999999998
+cuchillo	navaja	47.192927	11.156225	29.174576
+tenso	nervioso	6.059077	52.127952	29.0935145
+bosque	floresta	57.702822	0.265882	28.984351999999998
+témpano	hielo	0.6593	57.158088	28.908694
+muslo	pierna	3.378644	54.414967	28.8968055
+tenue	brillante	1.124053	56.557152	28.840602500000003
+esmalte	dientes	1.491532	56.038359	28.7649455
+iglú	hielo	0.365317	57.158088	28.7617025
+jamón	cerdo	8.733026	48.677974	28.7055
+tostadora	pan	2.05572	55.350957	28.7033385
+huella	dedo	13.534029	43.859678	28.696853500000003
+cereal	leche	4.150349	53.223903	28.687126
+traidor	mentiroso	23.401916	33.916134	28.659025
+saltar	cuerda	29.301032	27.913259	28.6071455
+gorra	sombrero	9.202102	47.869521	28.5358115
+cremallera	pantalones	2.282692	54.724082	28.503387
+brillante	opaco	56.557152	0.188063	28.3726075
+sobrio	borracho	7.924573	48.623933	28.274253
+cepillo	cabello	8.415265	48.126756	28.2710105
+hoyo	agujero	16.945097	39.491004	28.218050499999997
+arruinar	destruir	16.705155	39.668258	28.1867065
+carro	rueda	37.290454	18.708995	27.9997245
+zoológico	animal	7.691116	48.146211	27.9186635
+miga	pan	0.402065	55.350957	27.876511
+hogaza	pan	0.352347	55.350957	27.851652
+delgado	gordo	9.671178	45.431191	27.551184499999998
+gordo	delgado	45.431191	9.671178	27.551184499999998
+cebolla	llorar	5.702407	49.261617	27.482012
+cojear	pierna	0.373964	54.414967	27.3944655
+galón	leche	1.327247	53.223903	27.275575
+leche	galón	53.223903	1.327247	27.275575
+cerdo	puerco	48.677974	5.858045	27.268009499999998
+pascua	huevos	6.448173	48.0792	27.2636865
+remedio	cura	17.301768	37.102391	27.202079499999996
+tirar	atrapar	30.265123	24.050408	27.1577655
+autopista	carretera	14.53703	39.583954	27.060492
+catástrofe	desastre	5.056076	48.278071	26.667073499999997
+peso	libra	46.265584	6.610296	26.437939999999998
+alas	pájaro	21.776363	30.954687	26.365524999999998
+pastelería	restaurante	2.008164	50.712077	26.3601205
+sincero	honesto	21.032758	31.309196	26.170977
+puro	cigarrillo	25.286866	26.938359	26.112612499999997
+escudo	protección	14.990974	37.229928	26.110451
+cuchillo	tenedor	47.192927	4.868014	26.0304705
+olor	perfume	37.72062	13.69399	25.707304999999998
+revolver	huevos	3.274885	48.0792	25.6770425
+nube	lluvia	11.830656	39.454256	25.642456
+piscina	nadar	25.889964	24.966943	25.4284535
+pulgar	dedo	6.908602	43.859678	25.384140000000002
+deporte	fútbol	14.251693	36.399858	25.3257755
+química	ciencia	13.209783	37.294777	25.252280000000003
+valiente	valentía	42.871809	7.61762	25.2447145
+mentiroso	engañar	33.916134	16.530062	25.223098
+deshonra	vergüenza	3.322441	47.004865	25.163653
+combustible	gasolina	24.288188	25.998046	25.143117
+pastilla	medicina	6.061239	44.168793	25.115016
+olor	oler	37.72062	12.295409	25.008014499999998
+granito	piedra	1.863334	48.105139	24.9842365
+fingir	falso	17.070472	32.841798	24.956134999999996
+yate	bote	7.273919	42.39841	24.8361645
+desordenado	limpio	2.312955	47.270746	24.791850500000002
+fantasma	asustar	41.553208	7.500891	24.5270495
+apuñalar	cuchillo	1.724989	47.192927	24.458958
+doce	once	29.884675	19.015948	24.4503115
+peso	balanza	46.265584	2.635039	24.450311499999998
+manguera	jardín	4.870175	43.900749	24.385461999999997
+fábula	cuento	1.208357	47.469617	24.338987
+deprisa	apurarse	46.334756	2.336733	24.3357445
+débil	frágil	40.347013	7.926734	24.1368735
+tararear	cantar	0.460429	47.502042	23.9812355
+apuesta	apostar	30.466156	17.349324	23.90774
+robo	hurto	46.367181	1.411551	23.889366000000003
+lluvia	mojado	39.454256	8.233687	23.843971500000002
+limpio	aseado	47.270746	0.389095	23.8299205
+escalera	ascensor	25.775397	21.560199	23.667798
+ascensor	escalera	21.560199	25.775397	23.667798
+harina	pastel	5.250624	41.609411	23.4300175
+tesoro	cofre	40.995505	5.624588	23.310046500000002
+bandido	ladrón	7.172322	39.445609	23.3089655
+bandido	ladrón	7.172322	39.445609	23.3089655
+bandido	ladrón	7.172322	39.445609	23.3089655
+huracán	tormenta	7.204747	39.39373	23.299238499999998
+manga	camisa	7.265272	39.136495	23.2008835
+talón	dedo	2.529119	43.859678	23.194398500000002
+estadio	fútbol	9.772775	36.399858	23.086316500000002
+tirar	lanzar	30.265123	15.90751	23.0863165
+escalar	montaña	5.330605	40.625865	22.978234999999998
+remo	bote	3.542928	42.39841	22.970669
+licor	whisky	11.891182	34.045832	22.968507
+furgoneta	camioneta	10.550965	35.249866	22.900415499999998
+esbelto	gordo	0.339378	45.431191	22.8852845
+ancla	bote	3.277046	42.39841	22.837728
+robar	hurtar	45.521979	0.125375	22.823677
+lavandería	sucio	7.561417	38.038381	22.799899
+paraguas	lluvia	6.024491	39.454256	22.7393735
+dólar	centavos	18.469053	26.9924	22.7307265
+galleta	chocolate	8.730864	36.600891	22.6658775
+chiste	reír	24.915064	20.321579	22.6183215
+reír	chiste	20.321579	24.915064	22.6183215
+vodka	bebida	13.626979	31.583724	22.6053515
+servir	atender	30.176496	14.809397	22.492946500000002
+blusa	camisa	5.724023	39.136495	22.430259
+osado	valiente	1.947638	42.871809	22.4097235
+sordo	ciego	12.546159	32.102518	22.324338500000003
+chocolate	caramelo	36.600891	8.03914	22.320015499999997
+aroma	olor	6.755125	37.72062	22.237872499999998
+cosecha	granja	10.708765	33.69997	22.2043675
+guitarra	cuerda	16.380909	27.913259	22.147084
+rabia	ira	12.001426	32.191145	22.0962855
+cereal	desayuno	4.150349	39.53856	21.844454499999998
+antídoto	cura	6.424394	37.102391	21.7633925
+visitante	invitado	5.894793	37.603892	21.7493425
+corredor	pasillo	16.31606	27.141553	21.728806499999997
+pasillo	corredor	27.141553	16.31606	21.728806499999997
+avena	desayuno	3.653172	39.53856	21.595865999999997
+estanque	lago	5.58784	37.517426	21.552633
+nido	pájaro	11.981971	30.954687	21.468329
+pulmón	respirar	7.271757	35.621668	21.4467125
+atlas	mapa	1.642846	41.203023	21.4229345
+hornear	pastel	1.18674	41.609411	21.3980755
+furia	ira	10.537996	32.191145	21.3645705
+criminal	delincuente	35.130975	7.598165	21.36457
+engañar	mentir	16.530062	26.062895	21.2964785
+engañar	mentir	16.530062	26.062895	21.2964785
+acero	metal	20.961424	21.525612	21.243518
+arroyo	corriente	6.705408	35.591405	21.1484065
+montaña	cerro	40.625865	1.651493	21.138679
+migaja	pastel	0.40855	41.609411	21.0089805
+águila	pájaro	11.056789	30.954687	21.005738
+ciencia	biología	37.294777	4.705891	21.000334000000002
+pipa	fumar	8.136413	33.481644	20.8090285
+jeep	camioneta	6.350899	35.249866	20.800382499999998
+pelota	bate	32.874223	8.644399	20.759311
+débil	decaído	40.347013	0.868979	20.607996
+servilleta	limpiar	3.642364	37.491486	20.566925
+sonrisa	diente	30.483449	10.576905	20.530177000000002
+estafar	ladrón	1.586644	39.445609	20.5161265
+asaltante	ladrón	1.552058	39.445609	20.4988335
+vainilla	chocolate	4.379483	36.600891	20.490187
+nube	humo	11.830656	28.974624	20.402639999999998
+acero	hierro	20.961424	19.828725	20.3950745
+escocés	whisky	6.733509	34.045832	20.389670499999998
+maletín	maleta	14.495959	26.212048	20.354003499999997
+apagado	aburrido	8.93622	31.717746000000002	20.326983000000002
+granizo	lluvia	1.162962	39.454256	20.308609
+sentarse	parase	40.115718	0.488531	20.3021245
+chaleco	chaqueta	9.039979	31.244346	20.1421625
+gorila	mono	5.276564	34.988307	20.1324355
+ratero	ladrón	0.799807	39.445609	20.122708
+camello	desierto	6.634074	33.421118	20.027596
+tabaco	cigarrillo	13.069276	26.938359	20.0038175
+almohada	suave	10.838464	28.896805	19.8676345
+marco	cuadro	19.048373	20.682573	19.865473
+ola	océano	13.981488	25.479252	19.73037
+pintor	artista	8.199101	31.257316	19.7282085
+rata	ratón	25.27822	13.97068	19.62445
+ron	licor	27.338263	11.891182	19.6147225
+esquiar	nieve	3.817456	35.381726	19.599591
+vapor	humo	9.848432	28.974624	19.411528
+barriga	estómago	6.554093	32.262479	19.408286
+tumba	sepultura	37.487163	1.253751	19.370457000000002
+rancio	olor	0.998678	37.72062	19.359648999999997
+gritar	grito	26.458475	12.090053	19.274264
+gritar	grito	26.458475	12.090053	19.274264
+pudín	chocolate	1.865495	36.600891	19.233193
+refresco	bebida	6.794035	31.583724	19.1888795
+refresco	bebida	6.794035	31.583724	19.1888795
+bebida	refresco	31.583724	6.794035	19.1888795
+tronco	madera	7.107473	31.168689	19.138081
+halcón	pájaro	7.289051	30.954687	19.121869
+simio	mono	3.1106	34.988307	19.0494535
+paloma	pájaro	7.131251	30.954687	19.042969
+almizcle	olor	0.352347	37.72062	19.0364835
+almizcle	olor	0.352347	37.72062	19.0364835
+calendario	fecha	7.390648	30.53749	18.964069
+hediondez	olor	0.138345	37.72062	18.9294825
+bodega	sótano	9.178324	28.505548	18.841936
+costumbre	tradición	20.38859	17.029401	18.7089955
+cuerda	soga	27.913259	9.496085	18.704672000000002
+trapo	material	4.465949	32.887193	18.676571000000003
+queso	parmesano	36.613861	0.572835	18.593348
+garganta	doloroso	24.977752	12.118155	18.5479535
+león	tigre	20.023273	17.038048	18.5306605
+cuervo	pájaro	5.644042	30.954687	18.2993645
+inhalar	respirar	0.942475	35.621668	18.2820715
+temperamento	ira	4.258431	32.191145	18.224788
+bruja	escoba	30.697451	5.728346	18.2128985
+deshonesto	mentiroso	2.41239	33.916134	18.164262
+escarcha	nieve	0.763059	35.381726	18.0723925
+abdomen	estómago	3.780709	32.262479	18.021594
+eslabón	cadena	2.47724	33.524877	18.0010585
+fideos	sopa	5.713215	30.258639	17.985927
+cola	pegajoso	33.289258	2.501018	17.895138
+escaleras	escalar	30.425085	5.330605	17.877845
+centavo	moneda	15.840499	19.889251	17.864875
+moneda	centavo	19.889251	15.840499	17.864875
+máscara	esconder	20.034081	15.60488	17.8194805
+bañera	ducha	10.989778	24.625404	17.807591
+confesión	sacerdote	15.771326	19.515287	17.6433065
+frustración	ira	3.043589	32.191145	17.617366999999998
+hostilidad	ira	2.810132	32.191145	17.5006385
+pingüino	pájaro	3.828265	30.954687	17.391476
+divorcio	separar	27.076704	7.481436	17.27907
+blando	suave	5.659174	28.896805	17.2779895
+poeta	escritor	12.308379	22.178428	17.2434035
+rebotar	pelota	1.188902	32.874223	17.0315625
+autor	escritor	11.793909	22.178428	16.986168499999998
+grano	mancha	20.354003	13.605363	16.979683
+sepelio	funeral	0.166446	33.775627	16.9710365
+miel	abeja	27.534972	6.346575	16.9407735
+búho	pájaro	2.920376	30.954687	16.9375315
+nudo	cuerda	5.613779	27.913259	16.763519
+toro	vaca	12.844466	20.663118	16.753792
+caña	azúcar	5.218199	28.25696	16.7375795
+naranja	jugo	16.94942	16.493314	16.721367
+canario	pájaro	2.401582	30.954687	16.6781345
+mimbre	material	0.399903	32.887193	16.643548000000003
+nido	huevo	11.981971	21.274862	16.6284165
+fruta	manzana	14.007428	19.128354	16.567891000000003
+camarón	pescado	1.986547	31.075739	16.531143
+viga	madera	1.856849	31.168689	16.512769
+percatación	alerta	0.001	32.537007	16.2690035
+escamas	pescado	1.281853	31.075739	16.178796
+cocido	sopa	2.075175	30.258639	16.166907
+ganga	venta	3.235975	28.987594	16.1117845
+amanecer	atardecer	25.853216	6.337929	16.0955725
+construir	edificar	31.758817	0.332893	16.045855
+terciopelo	suave	3.082499	28.896805	15.989652
+repulsivo	asqueroso	2.289177	29.666349	15.977763
+ambición	meta	7.998068	23.948811	15.9734395
+veneno	víbora	24.934519	6.66866	15.8015895
+encendedor	cigarrillo	4.491888	26.938359	15.715123499999999
+antídoto	veneno	6.424394	24.934519	15.6794565
+lentes	gafas	12.37539	18.851664	15.613527
+escalera	escalar	25.775397	5.330605	15.553001000000002
+mito	leyenda	8.901634	22.150326	15.52598
+tucán	pájaro	0.071334	30.954687	15.5130105
+tina	bañera	20.010303	10.989778	15.5000405
+naranja	fruta	16.94942	14.007428	15.478424
+lana	oveja	24.411402	6.407101	15.4092515
+apacible	suave	1.653655	28.896805	15.27523
+muelle	pesca	16.785136	13.564292	15.174714000000002
+lana	suéter	24.411402	5.79968	15.105540999999999
+saltar	brincar	29.301032	0.801968	15.051499999999999
+saltar	brincar	29.301032	0.801968	15.051499999999999
+órgano	piano	5.129572	24.878316	15.003944
+marinero	armada	10.808201	19.188879	14.99854
+gritar	ruidoso	26.458475	3.424038	14.9412565
+sofá	sillón	23.564039	6.067724	14.8158815
+serpiente	víbora	22.950133	6.66866	14.8093965
+platillo	plato	2.509664	26.936198	14.722931
+ceniza	cigarrillo	2.494533	26.938359	14.716446
+violeta	flor	4.126571	25.289028	14.7077995
+granero	vaca	8.741673	20.663118	14.702395500000002
+escalón	escalera	3.536443	25.775397	14.65592
+nicotina	cigarrillo	2.360511	26.938359	14.649434999999999
+toalla	seco	13.257339	15.911833	14.584586
+guerrero	luchador	21.421854	7.671661	14.5467575
+hierba	especia	25.669477	3.194904	14.4321905
+herramientas	martillo	17.014269	11.735544	14.3749065
+curiosidad	metiche	28.747652	0.001	14.374326
+barrera	muro	7.924573	20.823079	14.373826
+sueldo	salario	16.506284	12.042497	14.274390499999999
+arrecife	océano	2.870658	25.479252	14.174954999999999
+alacena	armario	1.227812	27.03131	14.129561
+monje	sacerdote	8.52767	19.515287	14.0214785
+bandera	poste	22.301641	5.726185	14.013913
+dragón	calabozo	21.065183	6.878339	13.971761
+cuerda	papalote	27.913259	0.001	13.9571295
+rayo	relámpago	22.701545	5.015005	13.858274999999999
+químico	científico	6.299019	21.365651	13.832335
+nadar	bucear	24.966943	2.094629	13.530786
+regañar	gritar	0.572835	26.458475	13.515655
+bigote	barba	10.432075	16.538709	13.485392000000001
+florecer	flor	1.677433	25.289028	13.4832305
+florecer	flor	1.677433	25.289028	13.4832305
+cajón	cómoda	11.897667	15.047177	13.472422
+perla	collar	8.069403	18.855987	13.462695
+huerta	flor	1.586644	25.289028	13.437835999999999
+estallar	explotar	8.55361	18.311254	13.432432000000002
+estallar	explotar	8.55361	18.311254	13.432432000000002
+cautivo	prisionero	1.325085	25.433858	13.379471500000001
+tallo	flor	1.361833	25.289028	13.3254305
+vocear	gritar	0.049718	26.458475	13.2540965
+grano	trigo	20.354003	6.100148	13.2270755
+lirio	flor	1.095952	25.289028	13.19249
+lanzar	cohete	15.90751	10.470985	13.1892475
+esqueleto	hueso	5.019328	21.357004	13.188165999999999
+hiedra	veneno	1.428844	24.934519	13.181681500000002
+béisbol	bate	17.699509	8.644399	13.171954
+monja	sacerdote	6.82646	19.515287	13.1708735
+esfera	círculo	5.771579	20.410206	13.090892499999999
+odiado	amado	3.16248	22.947972	13.055226
+pascua	conejo	6.448173	19.655794	13.0519835
+lana	tejer	24.411402	1.668786	13.040094
+correa	cinturón	5.218199	20.836049	13.027124
+perfume	oler	13.69399	12.295409	12.9946995
+grava	piedras	1.236458	24.55407	12.895264
+rabino	sacerdote	6.244978	19.515287	12.8801325
+rebaño	vaca	5.040945	20.663118	12.8520315
+pasto	vaca	4.997712	20.663118	12.830415
+palo	poste	19.92816	5.726185	12.8271725
+mortífero	veneno	0.709018	24.934519	12.821768500000001
+vampiro	murciélago	20.047051	5.138219	12.592635
+salvado	avena	21.439147	3.653172	12.5461595
+veneno	ponzoña	24.934519	0.138345	12.536432000000001
+cosecha	maíz	10.708765	14.093894	12.4013295
+círculo	cuadrado	20.410206	4.318957	12.3645815
+cavar	hoyo	7.71057	16.945097	12.3278335
+creído	arrogante	13.882053	10.680664	12.2813585
+escudo	armadura	14.990974	9.366387	12.178680499999999
+mojado	seco	8.233687	15.911833	12.072759999999999
+cabaña	leña	16.992653	6.975613	11.984133
+estufa	cocinar	3.331087	20.451277	11.891182
+hambruna	sed	1.549896	22.208691	11.879293500000001
+flecha	arco	9.247496	14.409493	11.8284945
+zanahoria	conejo	3.992549	19.655794	11.8241715
+zanahoria	conejo	3.992549	19.655794	11.8241715
+casco	gorro	18.449599	5.053915	11.751757
+hembra	macho	8.80436	14.113348	11.458854
+pancarta	bandera	0.590128	22.301641	11.4458845
+borde	acantilado	19.009463	3.791517	11.40049
+ondear	bandera	0.317761	22.301641	11.309701
+chef	cocinero	12.319187	10.278599	11.298893
+envidia	celos	9.26479	13.265985	11.2653875
+posada	motel	5.583516	16.854308	11.218912
+calabaza	naranja	5.460303	16.94942	11.2048615
+cobre	centavo	6.493567	15.840499	11.167033
+tambor	batería	5.860206	16.357131	11.1086685
+salto	brincar	21.415369	0.801968	11.108668499999999
+placa	galardón	21.653149	0.304791	10.97897
+hornear	cocinar	1.18674	20.451277	10.8190085
+vulgar	grosero	9.472307	12.139771	10.806039
+afeitar	barba	5.015005	16.538709	10.776857
+grano	acné	20.354003	1.167286	10.7606445
+pera	manzana	2.386451	19.128354	10.757402500000001
+verruga	grano	0.866818	20.354003	10.610410499999999
+palomitas	mantequilla	6.257948	14.930448	10.594198
+educado	grosero	8.927574	12.139771	10.5336725
+zanahoria	naranja	3.992549	16.94942	10.4709845
+oler	peste	12.295409	8.644399	10.469904
+cera	vela	6.139058	14.772649	10.4558535
+disfrazar	máscara	0.875464	20.034081	10.4547725
+cabaña	choza	16.992653	3.895276	10.4439645
+grasa	ballena	12.366743	8.080211	10.223476999999999
+tortuga	lenta	11.09786	9.320992	10.209426
+bondad	amabilidad	12.001426	8.242334	10.12188
+mena	hierro	0.116729	19.828725	9.972726999999999
+champán	burbuja	14.982328	4.874498	9.928413
+joya	diamante	7.280404	12.280278	9.780341
+triciclo	bicicleta	0.856009	18.616045	9.736027
+pato	estanque	13.856113	5.58784	9.7219765
+cordón	zapato	4.420554	14.969358	9.694956
+mosca	bicho	9.757644	9.62146	9.689552
+suelto	apretado	13.609686	5.760771	9.685228500000001
+cereza	tarta	4.167642	14.854791	9.5112165
+enchufe	cargar	1.673109	17.163423	9.418266000000001
+caña	pesca	5.218199	13.564292	9.3912455
+ecuación	matemáticas	4.424877	14.245208	9.3350425
+ganso	pato	4.794518	13.856113	9.3253155
+mandíbula	tiburón	5.98342	12.654241	9.3188305
+votación	votar	7.144221	11.484794	9.314507500000001
+equilibrio	postura	10.669856	7.956997	9.3134265
+pelar	naranja	1.66014	16.94942	9.30478
+pasarela	corredor	2.222166	16.31606	9.269113
+coñac	licor	6.556255	11.891182	9.2237185
+tacto	modales	4.835589	13.534029	9.184809
+ingenioso	astuto	7.092341	11.262145	9.177243
+tostada	mantequilla	3.417553	14.930448	9.1740005
+lechuga	ensalada	3.093307	15.122834	9.1080705
+cereza	fruta	4.167642	14.007428	9.087535
+herramienta	martillo	6.387647	11.735544	9.061595500000001
+multitud	muchedumbre	15.356291	2.682595	9.019443
+cebolla	oler	5.702407	12.295409	8.998908
+bolígrafo	lápiz	5.542445	12.446724	8.9945845
+maletín	carpeta	14.495959	3.460786	8.978372499999999
+fresa	fruta	3.90176	14.007428	8.954594
+lesión	lastimar	5.702407	12.17868	8.9405435
+alojar	cabaña	0.853848	16.992653	8.9232505
+acarrear	cargar	0.544733	17.163423	8.854078000000001
+callado	ruidoso	14.121995	3.424038	8.7730165
+plátano	fruta	3.53212	14.007428	8.769774
+talón	zapato	2.529119	14.969358	8.7492385
+bailarina	bailarín	11.406975	6.091502	8.7492385
+sinceridad	bondad	5.471111	12.001426	8.7362685
+diploma	graduación	3.646687	13.778294	8.712490500000001
+balón	canasta	11.97981	5.360868	8.670339
+engreído	creído	3.359189	13.882053	8.620621
+puño	manga	9.908958	7.265272	8.587115
+tapete	alfombra	1.703372	15.429787	8.5665795
+pluma	pergamino	13.765324	3.339734	8.552529
+insecto	mosca	7.267434	9.757644	8.512539
+insecto	bicho	7.267434	9.62146	8.444447
+aguja	coser	12.340803	4.51999	8.4303965
+puñetazo	pegar	5.682952	11.048143	8.3655475
+nailon	medias	0.300468	16.417657	8.359062499999999
+nailon	medias	0.300468	16.417657	8.359062499999999
+rastrillo	hojas	1.033264	15.607042	8.320153
+orquesta	violín	8.813007	7.764611	8.288809
+calceta	medias	0.149153	16.417657	8.283404999999998
+persiana	sombras	0.810615	15.751872	8.2812435
+clavos	martillo	4.798841	11.735544	8.2671925
+fraternidad	hermandad	7.516023	9.001069	8.258545999999999
+convencer	persuadir	14.727254	1.783353	8.2553035
+disfrazar	esconder	0.875464	15.60488	8.240172
+rebanada	tarta	1.454784	14.854791	8.154787500000001
+oveja	cordero	6.407101	9.809523	8.108312
+tomate	verduras	9.790068	6.387647	8.0888575
+navaja	afeitar	11.156225	5.015005	8.085615
+derramar	desorden	3.101954	13.064953	8.0834535
+acurrucar	abrazo	0.028101	16.123674	8.0758875
+horno	estufa	12.78394	3.331087	8.057513499999999
+derretir	mantequilla	1.158639	14.930448	8.0445435
+molestar	irritar	15.490313	0.490692	7.9905025
+tostada	quemado	3.417553	12.554806	7.9861794999999995
+curva	recta	9.407458	6.556255	7.9818565
+criada	sirvienta	9.915443	6.037461	7.976452
+ascenso	descenso	11.119477	4.826942	7.973209499999999
+esmeralda	diamante	3.603454	12.280278	7.941865999999999
+frustrar	molestar	0.380449	15.490313	7.9353810000000005
+geometría	matemáticas	1.584482	14.245208	7.914845
+neblina	niebla	2.05572	13.761001	7.908360500000001
+niebla	neblina	13.761001	2.05572	7.908360500000001
+agravar	molestar	0.177254	15.490313	7.8337835
+flaco	delgado	5.979097	9.671178	7.8251375
+durazno	fruta	1.623392	14.007428	7.81541
+turbar	molestar	0.099435	15.490313	7.794874
+peste	basurero	8.644399	6.925895	7.785147
+verdura	fruta	1.539088	14.007428	7.773258
+verdura	fruta	1.539088	14.007428	7.773258
+acechar	presa	0.680917	14.80075	7.740833500000001
+tallo	maíz	1.361833	14.093894	7.727863500000001
+fragancia	perfume	1.7401199999999999	13.69399	7.717054999999999
+pantano	lodo	9.768452	5.564062	7.666257
+ciruela	fruta	1.314277	14.007428	7.660852500000001
+bufanda	pañuelo	4.238976	11.035173	7.637074500000001
+falda	blusa	9.4896	5.724023	7.606811499999999
+vaquera	vaquero	0.925182	14.262502	7.5938419999999995
+bailarín	ballet	6.091502	9.014039	7.5527705
+mayordomo	sirviente	6.703246	8.397972	7.550609
+zueco	zapato	0.123213	14.969358	7.5462855
+principiante	novato	2.699889	12.306217	7.503053
+aflicción	tristeza	1.573674	13.224914	7.399294
+balde	cubo	3.437008	11.337802	7.387405
+trompeta	instrumento	4.628072	10.120799	7.374435500000001
+pintar	pincel	13.222753	1.521795	7.372274000000001
+matemáticas	restar	14.245208	0.456106	7.350657
+pañuelo	servilleta	11.035173	3.642364	7.3387685000000005
+polución	niebla	0.916535	13.761001	7.338768
+camarera	mesera	10.905474	3.756931	7.3312025
+aguja	alfiler	12.340803	2.299985	7.320393999999999
+medalla	galardón	14.303573	0.304791	7.304182
+enjuagar	lavar	0.196709	14.346806	7.2717575000000005
+manchar	desorden	1.443976	13.064953	7.254464499999999
+verruga	mancha	0.866818	13.605363	7.2360905
+baya	fruta	0.358832	14.007428	7.18313
+pasto	césped	4.997712	9.340447	7.1690795
+serpentear	gusano	0.049718	14.28628	7.167999
+incienso	oler	1.932506	12.295409	7.1139575
+altivo	creído	0.337216	13.882053	7.1096345
+rubí	diamante	1.938991	12.280278	7.109634499999999
+soda	refresco	7.384163	6.794035	7.089099
+ordenado	desordenado	11.850111	2.312955	7.081533
+bicho	cucaracha	9.62146	4.517828	7.069644
+flauta	instrumento	4.001196	10.120799	7.0609975
+engreído	arrogante	3.359189	10.680664	7.0199265
+cavar	pala	7.71057	6.275241	6.9929055
+cavar	pala	7.71057	6.275241	6.9929055
+horno	hornear	12.78394	1.18674	6.98534
+sediento	hambriento	2.987387	10.799554	6.8934705
+gema	diamante	1.493693	12.280278	6.8869855
+arrepentimiento	perdonar	3.322441	10.34561	6.8340255
+monasterio	monje	5.12741	8.52767	6.827540000000001
+limón	lima	8.931897	4.714537	6.823217
+párrafo	oración	3.147348	10.481793	6.8145705
+espejismo	ilusión	1.09379	12.515896	6.804843
+húmedo	mojado	5.319796	8.233687	6.7767415
+húmedo	mojado	5.319796	8.233687	6.7767415
+húmedo	mojado	5.319796	8.233687	6.7767415
+estallar	burbuja	8.55361	4.874498	6.714054000000001
+tela	trapo	8.944867	4.465949	6.705408
+trapo	tela	4.465949	8.944867	6.705408
+detergente	jabón	1.571512	11.804717	6.6881145
+lavaplatos	jabón	1.519633	11.804717	6.662175
+pañuelo	mocos	11.035173	2.289177	6.662175
+prohibir	impedir	1.802808	11.471824	6.637316
+tortuga	caparazón	11.09786	2.172448	6.635154
+raso	seda	1.854687	11.404813	6.6297500000000005
+tenis	raqueta	11.84795	1.303469	6.5757095
+técnico	electricista	10.976809	2.118407	6.547607999999999
+meteorito	cometa	4.156834	8.934059	6.5454465
+dócil	humilde	1.567189	11.463178	6.515183499999999
+ataúd	féretro	12.018719	0.972738	6.4957285
+presumido	arrogante	2.302147	10.680664	6.4914055
+arrogante	presumido	10.680664	2.302147	6.4914055
+pañuelo	moco	11.035173	1.848202	6.4416875000000005
+lechuga	tomate	3.093307	9.790068	6.4416875
+minero	carbón	2.217843	10.587713	6.4027780000000005
+elegancia	ballet	3.750446	9.014039	6.3822425
+lámpara	bombilla	10.542319	2.20055	6.3714345
+mayordomo	sirvienta	6.703246	6.037461	6.3703535
+almizcle	grasa	0.352347	12.366743	6.359545
+lazo	atar	7.45982	5.252786	6.3563030000000005
+cemento	acera	6.041784	6.623265	6.3325245
+fétido	oler	0.322084	12.295409	6.3087465
+gallo	cuervo	6.960481	5.644042	6.3022615
+santidad	devoción	7.477113	5.015005	6.246059000000001
+mosquito	bicho	2.812294	9.62146	6.216877
+raso	sábanas	1.854687	10.531511	6.193099
+terremoto	temblar	7.665176	4.59997	6.132573
+laberinto	rompecabezas	5.479758	6.765934	6.122846
+ordenado	aseado	11.850111	0.389095	6.119603
+escarabajo	bicho	2.550735	9.62146	6.0860975
+víbora	morder	6.66866	5.449495	6.0590775
+pañuelo	estornudar	11.035173	1.06785	6.0515115
+carnero	cordero	2.274045	9.809523	6.041784
+separar	dividir	7.481436	4.543768	6.012602
+varita	hada	3.579676	8.439043	6.0093595
+chantaje	soborno	6.461142	5.538122	5.999632
+cintura	cadera	6.121765	5.871015	5.99639
+tornado	huracán	4.746962	7.204747	5.9758545000000005
+cautivo	rehén	1.325085	10.626623	5.975854
+diadema	pañuelo	0.916535	11.035173	5.975854
+ciénaga	pantano	2.122731	9.768452	5.9455915
+granero	heno	8.741673	3.147348	5.9445105
+apretado	tenso	5.760771	6.059077	5.909924
+sinfonía	orquesta	2.989548	8.813007	5.901277500000001
+tutú	bailarina	0.358832	11.406975	5.882903499999999
+ángulo	geometría	10.16187	1.584482	5.873176
+frasco	mermelada	6.951835	4.541606	5.7467205
+fabricante	creador	3.772062	7.714894	5.743478
+langosta	cangrejo	5.786711	5.682952	5.7348315
+agrio	ácido	0.849525	10.555289	5.702407
+sermón	predicador	6.469789	4.932863	5.701326
+póquer	ficha	5.691598	5.68079	5.686194
+cortinas	persiana	10.518541	0.810615	5.664578000000001
+asfixiar	almohada	0.482046	10.838464	5.660255
+pañuelo	pañoleta	11.035173	0.203194	5.6191835
+pulir	brillo	1.742282	9.416104	5.579193
+tapadera	frasco	4.161157	6.951835	5.556496
+hollín	chimenea	0.886272	10.222396	5.554334
+tractor	remolque	5.412747	5.689437	5.551092000000001
+maleza	césped	1.737959	9.340447	5.539203
+órgano	donante	5.129572	5.890469	5.5100204999999995
+altivo	arrogante	0.337216	10.680664	5.50894
+torpe	patoso	10.012717	0.972738	5.4927275
+patos	estanque	5.363029	5.58784	5.4754345
+alforja	mochila	0.181578	10.736867	5.4592225
+náuseas	vómito	5.657012	5.252786	5.454899
+bloqueo	barricada	8.547125	2.336733	5.441929
+banquero	cajero	5.129572	5.736993	5.4332825
+choza	paja	3.895276	6.938865	5.4170704999999995
+silencioso	ruidoso	7.330122	3.424038	5.37708
+carie	diente	0.151315	10.576905	5.36411
+cubiertos	tenedor	5.83859	4.868014	5.353301999999999
+tónica	ginebra	1.435329	9.262628	5.348978499999999
+chófer	limusina	4.775063	5.883984	5.3295235000000005
+grueso	fino	3.467271	7.113958	5.2906145
+contenedor	recipiente	6.402778	4.17845	5.290614
+semilla	plantar	5.963965	4.615102	5.2895335
+rocío	mojado	2.330248	8.233687	5.2819675
+pulgar	uña	6.908602	3.590484	5.249543
+dormitar	siesta	0.101597	10.378034	5.2398155
+bastilla	falda	0.979223	9.4896	5.234411499999999
+zanahoria	verduras	3.992549	6.387647	5.190098
+zanahoria	verduras	3.992549	6.387647	5.190098
+gastrónomo	cocinero	0.062688	10.278599	5.1706435
+agresivo	empujón	6.852399	3.4262	5.1392995
+dolorido	herir	1.232135	9.042141	5.137138
+portón	valla	3.491049	6.634074	5.0625615
+tornillo	clavo	3.590484	6.519507	5.0549955
+pantuflas	bata	1.34454	8.745996	5.045268
+paja	heno	6.938865	3.147348	5.0431065
+lagarto	víbora	3.380805	6.66866	5.0247325
+hormiga	insecto	2.756091	7.267434	5.0117625
+esbelto	delgado	0.339378	9.671178	5.005278
+esbelto	delgado	0.339378	9.671178	5.005278
+esbelto	delgado	0.339378	9.671178	5.005278
+nómada	vagabundo	0.776029	9.109152	4.9425905
+compulsión	obsesión	0.741443	9.128606	4.9350245
+trimestre	semestre	3.2684	6.588679	4.9285395
+limón	agrio	8.931897	0.849525	4.890711
+ahogarse	tos	4.020651	5.728346	4.8744985
+caerse	desmayarse	7.483598	2.18758	4.835589
+polilla	mariposa	1.521795	8.127767	4.824781
+mariposa	polilla	8.127767	1.521795	4.824781
+arteria	vena	5.695922	3.951478	4.8237000000000005
+pepinillos	frasco	2.626393	6.951835	4.789114
+barriga	ombligo	6.554093	2.980902	4.7674975
+magnificar	aumentar	0.086466	9.431236	4.758851
+principiante	aprendiz	2.699889	6.817813	4.758851
+seriedad	honestidad	2.632878	6.878339	4.7556085
+perla	ostra	8.069403	1.327247	4.698325
+violeta	púrpura	4.126571	5.246301	4.6864360000000005
+flexible	doblar	3.849881	5.477596	4.6637385
+desplumar	plumas	0.365317	8.901634	4.633475499999999
+rancio	mojado	0.998678	8.233687	4.6161825
+charco	lodo	3.646687	5.564062	4.6053745
+mayonesa	mostaza	3.605616	5.566223	4.5859195
+termita	peste	0.495016	8.644399	4.5697075
+migaja	galleta	0.40855	8.730864	4.569707
+enanos	duendes	5.728346	3.398098	4.563222
+violonchelo	violín	1.325085	7.764611	4.544848
+mamífero	ballena	0.994354	8.080211	4.5372825
+cauteloso	prudente	1.569351	7.401456	4.485403499999999
+espantar	asustar	1.420198	7.500891	4.4605445
+grifo	lavabo	3.497534	5.408424	4.452979
+zumbido	abeja	2.498856	6.346575	4.4227155
+pepino	verduras	2.388612	6.387647	4.3881295
+gema	joya	1.493693	7.280404	4.3870485
+tirita	venda	0.691725	8.080211	4.385968
+crepúsculo	anochecer	2.511826	6.240655	4.3762405
+triángulo	cuadrado	4.33625	4.318957	4.3276035
+susurrar	silencioso	1.312116	7.330122	4.321119
+doblar	quebrar	5.477596	3.145186	4.311391
+aficionado	principiante	5.83859	2.699889	4.2692395
+empapar	mojado	0.30263	8.233687	4.2681585
+tifón	huracán	1.320762	7.204747	4.2627545
+resfriado	estornudar	7.425234	1.06785	4.246542
+gorila	simio	5.276564	3.1106	4.193581999999999
+plomo	flotador	7.611135	0.752251	4.181693
+aletear	mariposa	0.218326	8.127767	4.1730465
+fideos	espagueti	5.713215	2.505341	4.109278
+escoba	barrer	5.728346	2.41239	4.070368
+pavimento	acera	1.428844	6.623265	4.0260545
+porche	columpio	6.10231	1.876304	3.989307
+mermelada	tostada	4.541606	3.417553	3.9795795
+arrendamiento	alquilar	0.572835	7.384163	3.9784990000000002
+vudú	brujería	3.763415	4.187097	3.975256
+camello	joroba	6.634074	1.307792	3.970933
+cornamenta	cuernos	0.354509	7.559256	3.9568825000000003
+avispa	abeja	1.567189	6.346575	3.956882
+tenso	tieso	6.059077	1.830909	3.944993
+maquinilla	tijeras	0.40855	7.481436	3.944993
+empujar	jalar	6.037461	1.802808	3.9201345
+avena	cereal	3.653172	4.150349	3.9017605
+redondo	cuadrado	3.467271	4.318957	3.893114
+olla	sartén	5.086339	2.650171	3.8682549999999996
+aspirina	jaqueca	5.174966	2.54425	3.859608
+separar	adjuntar	7.481436	0.134022	3.807729
+apio	verduras	1.221327	6.387647	3.804487
+mariscos	langosta	1.761737	5.786711	3.7742240000000002
+persiana	cortina	0.810615	6.737832	3.7742235
+agresivo	mandón	6.852399	0.572835	3.712617
+aflojar	apretar	1.147831	6.216877	3.682354
+mareado	desmayarse	4.980419	2.18758	3.5839995
+precipicio	acantilado	3.341896	3.791517	3.5667065
+laberinto	enredo	5.479758	1.590967	3.5353625
+idéntico	gemelo	3.16248	3.906084	3.534282
+relleno	cojín	5.107956	1.92386	3.5159079999999996
+canasta	tejer	5.360868	1.668786	3.514827
+arrecife	coral	2.870658	4.143864	3.5072609999999997
+costura	coser	2.47724	4.51999	3.498615
+embarcadero	transbordador	1.64717	5.341413	3.4942915
+divertir	entretener	4.042267	2.913891	3.478079
+zanja	foso	3.51915	3.298663	3.4089064999999996
+tos	estornudar	5.728346	1.06785	3.398098
+balsa	flotar	4.422716	2.323763	3.3732395000000004
+carrete	caña	1.526118	5.218199	3.3721585000000003
+pegamento	pegajoso	4.241138	2.501018	3.3710780000000002
+cortina	cortinero	6.737832	0.001	3.369416
+cejas	pestañas	4.885307	1.748767	3.317037
+ascender	descender	3.847719	2.717182	3.2824505000000004
+trofeo	galardón	6.23417	0.304791	3.2694805
+col	lechuga	3.4262	3.093307	3.2597535
+crudo	cocido	4.398938	2.075175	3.2370565000000004
+nudo	amarrar	5.613779	0.773867	3.193823
+alce	venado	3.63804	2.723667	3.1808535
+gimnasia	voltereta	5.702407	0.650654	3.1765305
+barranco	acantilado	2.561544	3.791517	3.1765305
+canela	especia	3.151671	3.194904	3.1732875
+tejer	coser	1.668786	4.51999	3.094388
+tejer	coser	1.668786	4.51999	3.094388
+azotar	castigar	1.188902	4.956641	3.0727715
+náusea	vómito	0.890596	5.252786	3.0716910000000004
+cornamenta	reno	0.354509	5.782387	3.068448
+cerrojo	candado	3.082499	2.929022	3.0057605
+látigo	azotar	4.660496	1.188902	2.924699
+ostra	concha	1.327247	4.491888	2.9095675
+mimbre	canasta	0.399903	5.360868	2.8803855
+flotar	hundirse	2.323763	3.402422	2.8630925
+gimnasta	atleta	0.970576	4.736154	2.853365
+patos	graznar	5.363029	0.28966	2.8263445
+sorber	tragar	0.278852	5.371676	2.8252639999999998
+escalofrío	temblar	1.041911	4.59997	2.8209405
+temblar	escalofrío	4.59997	1.041911	2.8209405
+mosquito	picar	2.812294	2.827425	2.8198594999999997
+hongo	moho	3.203551	2.42536	2.8144555
+regañar	castigar	0.572835	4.956641	2.7647380000000004
+bastilla	coser	0.979223	4.51999	2.7496065
+denso	grueso	2.006002	3.467271	2.7366365000000004
+ahogarse	estrangular	4.020651	1.439652	2.7301515
+clarinete	flauta	1.420198	4.001196	2.710697
+copiador	tramposo	0.149153	5.267917	2.708535
+apático	insensible	0.354509	5.056076	2.7052925
+dividir	multiplicar	4.543768	0.858171	2.7009695000000002
+pizarrón	pizarra	0.972738	4.290856	2.6317969999999997
+calesa	carreta	0.574996	4.666981	2.6209884999999997
+diadema	pulsera	0.916535	4.32328	2.6199074999999996
+hervidor	olla	0.146992	5.086339	2.6166655
+vinagre	pepinillos	2.593968	2.626393	2.6101805000000002
+apio	zanahoria	1.221327	3.992549	2.606938
+horóscopo	acuario	1.431006	3.772062	2.601534
+lienzo	lona	1.80497	3.393775	2.5993725000000003
+asteroide	meteoro	2.57019	2.561544	2.565867
+depilar	cejas	0.242104	4.885307	2.5637055
+tacaño	avaro	3.577514	1.549896	2.5637049999999997
+tacaño	avaro	3.577514	1.549896	2.5637049999999997
+voltio	relámpago	0.062688	5.015005	2.5388465
+puntada	coser	0.555542	4.51999	2.537766
+negación	rehusar	4.202228	0.827908	2.515068
+alergia	estornudar	3.923377	1.06785	2.4956135
+sarpullido	picar	2.142185	2.827425	2.4848049999999997
+dedal	coser	0.428005	4.51999	2.4739975
+lino	sábana	1.988709	2.913891	2.4513
+dinosaurio	jurásico	4.550252	0.350186	2.450219
+remendar	coser	0.36964	4.51999	2.444815
+adivinanza	rima	1.260236	3.629394	2.444815
+berrinche	temperamento	0.626876	4.258431	2.4426535
+gimnasta	flexible	0.970576	3.849881	2.4102285
+lamer	paleta	2.509664	2.271884	2.390774
+cebada	avena	1.126215	3.653172	2.3896935
+sartén	freír	2.650171	2.109761	2.379966
+esponja	empapar	4.457302	0.30263	2.379966
+baba	rezumar	4.725345	0.017293	2.3713189999999997
+electricista	plomero	2.118407	2.561544	2.3399755
+mermelada	confitura	4.541606	0.129698	2.335652
+confitura	mermelada	0.129698	4.541606	2.335652
+puré	triturar	4.208713	0.419358	2.3140355
+sofocar	ahogarse	0.568511	4.020651	2.294581
+mimo	imitar	1.108921	3.462947	2.285934
+bandana	bufanda	0.242104	4.238976	2.24054
+rígido	tieso	2.593968	1.830909	2.2124384999999998
+descomposición	pudrirse	2.472916	1.945476	2.209196
+aluminio	estaño	3.886629	0.520955	2.203792
+ornamento	decoración	0.239942	4.154672	2.197307
+neblina	rocío	2.05572	2.330248	2.192984
+jarabe	arce	3.050074	1.314277	2.1821755
+puntuación	gramática	2.857688	1.459107	2.1583975
+barranca	zanja	0.771706	3.51915	2.145428
+bellota	nuez	0.585804	3.705051	2.1454275000000003
+silbar	soplar	1.774707	2.459946	2.1173265
+melaza	jarabe	0.994354	3.050074	2.022214
+coyote	aullar	3.298663	0.728473	2.013568
+persiana	vertical	0.810615	3.173288	1.9919514999999999
+grillo	pío	2.018972	1.908728	1.96385
+abrazarse	besarse	0.674432	3.253268	1.9638499999999999
+archivador	carpeta	0.449621	3.460786	1.9552035
+condimento	especia	0.665785	3.194904	1.9303445000000001
+abogar	rogar	0.185901	3.655333	1.920617
+folleto	pliegue	3.151671	0.639845	1.8957579999999998
+coyote	correcaminos	3.298663	0.471238	1.8849505
+uña	cortaúñas	3.590484	0.179416	1.88495
+trance	hipnotizar	3.335411	0.432328	1.8838695
+pizarrón	borrador	0.972738	2.790677	1.8817075
+cavador	zanja	0.231295	3.51915	1.8752224999999998
+ocioso	perezoso	0.525279	3.207874	1.8665764999999999
+caspa	champú	0.734958	2.918214	1.8265859999999998
+cacerola	sartén	0.998678	2.650171	1.8244245
+trance	aturdimiento	3.335411	0.293983	1.814697
+peaje	caseta	1.692564	1.930345	1.8114545
+asombrar	sorprender	0.281013	3.328926	1.8049695000000001
+cosechar	sembrar	1.616907	1.947638	1.7822725
+champiñón	hongo	0.309115	3.203551	1.756333
+amargado	agrio	2.650171	0.849525	1.7498479999999998
+cocido	res	2.075175	1.407228	1.7412015
+pepinillos	agrio	2.626393	0.849525	1.737959
+pepinillos	agrio	2.626393	0.849525	1.737959
+electrodoméstico	estufa	0.140507	3.331087	1.735797
+laca	pegajoso	0.957607	2.501018	1.7293125
+obstruir	desagüe	0.633361	2.823102	1.7282315
+mora	arándano	1.820101	1.6342	1.7271505
+radiador	refrigerante	2.686919	0.756574	1.7217465
+marfil	colmillo	2.719343	0.719826	1.7195844999999998
+seriedad	veracidad	2.632878	0.771706	1.702292
+babosa	caracol	1.165124	2.183257	1.6741905
+cerda	puerca	2.617746	0.700371	1.6590585
+buceador	buceo	0.378287	2.900921	1.6396039999999998
+canela	horchata	3.151671	0.092951	1.6223109999999998
+cloro	lejía	1.666625	1.452622	1.5596235
+marisco	camarón	1.10676	1.986547	1.5466535000000001
+monarca	gobernante	1.556381	1.513148	1.5347645
+costura	puntada	2.47724	0.555542	1.516391
+haragán	desordenado	0.704695	2.312955	1.508825
+avispa	picadura	1.567189	1.441814	1.5045015
+ajetreo	apurarse	0.642007	2.336733	1.48937
+huerto	bosquecillo	2.777708	0.166446	1.472077
+vaselina	lubricante	0.84304	2.085983	1.4645115
+molécula	átomo	1.087305	1.802808	1.4450565
+principiante	iniciador	2.699889	0.138345	1.4191170000000002
+caracol	viscoso	2.183257	0.57932	1.3812885
+cactus	espinoso	2.442653	0.319923	1.381288
+difamación	calumnia	1.48937	1.273206	1.381288
+paleta	piruleta	2.271884	0.423681	1.3477825
+tetera	hervidor	2.492371	0.146992	1.3196815
+descongelar	congelar	0.415035	2.220004	1.3175195
+losa	hormigón	0.6593	1.960608	1.3099539999999998
+nadador	buceador	2.228651	0.378287	1.303469
+áspero	liso	1.325085	1.279691	1.302388
+orégano	espaguetis	0.585804	2.01681	1.301307
+previsión	retrospectiva	1.134861	1.452622	1.2937414999999999
+descomponerse	pudrirse	0.618229	1.945476	1.2818525
+adornar	decorar	0.650654	1.895758	1.273206
+Tylenol	jaqueca	0.001	2.54425	1.272625
+sacudir	traqueteo	2.414552	0.129698	1.272125
+almeja	ostra	1.197549	1.327247	1.2623980000000001
+baboso	resbaladizo	1.389935	1.124053	1.256994
+aflojar	desatar	1.147831	1.35751	1.2526705
+serpentear	sacudir	0.049718	2.414552	1.232135
+pomada	ungüento	1.368318	1.089467	1.2288925
+mildiu	moho	0.008647	2.42536	1.2170035
+galón	jarro	1.327247	1.102436	1.2148415
+galope	trote	1.428844	0.940313	1.1845785
+rin	llanta	0.001	2.362673	1.1818365
+acarrear	jalar	0.544733	1.802808	1.1737705
+asar	hornear	1.132699	1.18674	1.1597195
+horóscopo	astrología	1.431006	0.877626	1.1543160000000001
+gasa	curita	1.50234	0.788999	1.1456695
+crujir	crujiente	0.616067	1.664463	1.140265
+asombro	asombrar	1.964931	0.281013	1.122972
+enchufe	clavija	1.673109	0.572835	1.1229719999999999
+gimnasta	acróbata	0.970576	1.245105	1.1078405
+chillido	chillar	0.54041	1.610422	1.075416
+metiche	entrometido	0.001	2.122731	1.0618655
+neutrón	átomo	0.319923	1.802808	1.0613655
+adjetivo	verbo	0.689563	1.400743	1.045153
+calima	neblina	0.032425	2.05572	1.0440725
+vaselina	grasiento	0.84304	1.221327	1.0321835
+garrapata	pulga	0.741443	1.301307	1.021375
+escamas	caspa	1.281853	0.734958	1.0084054999999998
+edredón	cobija	0.6593	1.355348	1.007324
+copo	caspa	1.208357	0.734958	0.9716575
+floración	florecer	0.216164	1.677433	0.9467985
+estera	tapete	0.162123	1.703372	0.9327475000000001
+fotocopiadora	fotocopia	1.182417	0.616067	0.8992420000000001
+crujiente	gomoso	1.664463	0.075657	0.87006000000000006
+afelpada	tapete	0.019455	1.703372	0.8614135
+claxon	pitido	0.998678	0.704695	0.8516865
+culebrear	escabullirse	0.004323	1.673109	0.838716
+sonrojo	avergonzar	0.201033	1.469915	0.835474
+licuadora	batidora	0.964091	0.691725	0.8279080000000001
+descongelar	derretirse	0.415035	1.240781	0.827908
+periscopio	caleidoscopio	1.491532	0.159961	0.8257465
+acariciar	toquetear	1.433167	0.179416	0.8062915
+chillar	chismosear	1.610422	0.001	0.805711
+licuadora	daiquiri	0.964091	0.544733	0.7544120000000001
+hediondez	apestar	0.138345	1.368318	0.7533314999999999
+furtivo	taimado	0.925182	0.486369	0.7057755
+azada	rastrillo	0.360994	1.033264	0.697129
+virar	viraje	1.104598	0.283175	0.6938865
+pomada	neosporin	1.368318	0.001	0.6846589999999999
+discapacidad	incapacitar	1.197549	0.142668	0.6701085
+pelusa	tamo	1.229973	0.058364	0.6441685
+desintegrarse	disolverse	0.570673	0.696048	0.6333605
+deslizar	resbalar	0.583643	0.663624	0.6236335
+energético	hiperactivo	0.836555	0.404227	0.620391
+deshelar	derretir	0.023778	1.158639	0.5912085
+duna	calesa	0.594451	0.574996	0.5847235
+péndulo	hipnotizar	0.715503	0.432328	0.5739155
+acurrucarse	abrazarse	0.449621	0.674432	0.5620265
+adjetivo	sustantivo	0.689563	0.384772	0.5371675
+vaselina	agrietado	0.84304	0.229134	0.536087
+pestaña	rímel	0.678755	0.380449	0.529602
+curita	raspón	0.788999	0.270205	0.529602
+contralto	saxofón	0.13186	0.92302	0.52744
+asfixiar	sofocar	0.482046	0.568511	0.5252785
+lubricar	vaselina	0.196709	0.84304	0.5198745
+moler	rechinar	0.739281	0.296145	0.517713
+calabacín	calabacita	0.330731	0.594451	0.462591
+frustrar	irritar	0.380449	0.490692	0.43557049999999997
+adjetivo	adverbio	0.689563	0.164285	0.426924
+reprender	regañar	0.207517	0.572835	0.39017599999999997
+colorete	sonrojarse	0.475561	0.293983	0.384772
+neutrón	electrón	0.319923	0.42152	0.37072150000000004
+serpentear	retorcerse	0.049718	0.670108	0.35991300000000004
+hipnotizar	cautivar	0.432328	0.257235	0.34478149999999996
+agravar	irritar	0.177254	0.490692	0.333973
+mentol	eucalipto	0.28966	0.376125	0.3328925
+nailon	pantis	0.300468	0.332893	0.31668050000000003
+pronombre	sustantivo	0.196709	0.384772	0.2907405
+adverbio	sustantivo	0.164285	0.384772	0.2745285
+adverbio	sustantivo	0.164285	0.384772	0.2745285
+nailon	calcetas	0.300468	0.196709	0.2485885
+cizallas	podadora	0.041071	0.449621	0.245346
+deshelar	descongelar	0.023778	0.415035	0.2194065
+lubricar	humedecer	0.196709	0.207517	0.202113
+asombrar	pasmar	0.281013	0.01297	0.1469915
+erosionar	desgastar	0.049718	0.239942	0.14483
+borronear	garabatear	0.002162	0.246427	0.1242945
+cervato	cierva	0.023778	0.207517	0.1156475
+centelleo	destellar	0.077819	0.084304	0.08106150000000001
+ulular	vocear	0.067011	0.049718	0.0583645
+vatio	voltio	0.03891	0.062688	0.050799
