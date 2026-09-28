@@ -2408,11 +2408,10 @@ while true
               Screen('PutImage', w, symbolImg, imgRect);
             else % word
               if (paradigm == 33 || paradigm == 34) && language == 3
-                % Arabic letter: centre its bounding box on the screen centre
+                % Arabic letter: same placement as the English letters below
                 Screen('TextFont', w, arabicFont);
                 Screen('TextSize', w, round(5 * stimulusFontSize * yGrid));
-                letterBounds = Screen('TextBounds', w, double(item)); % cast to double needed for unicode
-                Screen('DrawText', w, double(item), x - round(letterBounds(3) / 2), y - round(letterBounds(4) / 2), textColor);
+                DrawFormattedText(w, double(item), 'center', y + round(1/3 * 5 * stimulusFontSize * yGrid), textColor); % cast to double needed for unicode
               elseif paradigm == 33 || paradigm == 34
                 Screen('TextSize', w, round(5 * stimulusFontSize * yGrid));
                 DrawFormattedText(w, item, 'center', y + round(1/3 * 5 * stimulusFontSize * yGrid), textColor);
