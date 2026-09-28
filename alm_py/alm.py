@@ -10,6 +10,7 @@ from psychopy import visual
 import preferences as prefs
 from common import HINT_COLOR, Session, read_history, rgb
 import adaptive
+import motor
 import wordgen
 
 PARADIGMS = {
@@ -23,12 +24,17 @@ PARADIGMS = {
     16: 'Adaptive rhyming judgment -- visual -- quick scan (4:00)',
     33: 'Word generation -- practice',
     34: 'Word generation -- quick scan (4:00)',
+    35: 'Motor -- tongue -- Wilson (4:00)',
+    36: 'Motor -- fingers -- Wilson (4:00)',
+    37: 'Motor -- foot -- Wilson (4:00)',
 }
 LANGUAGES = ['English', 'Spanish', 'Arabic']
 
 
 def run_paradigm(s, paradigm, language, pid):
-    if paradigm >= 33:
+    if paradigm >= 35:
+        motor.run(s, paradigm, PARADIGMS[paradigm], language)
+    elif paradigm >= 33:
         wordgen.run(s, paradigm, PARADIGMS[paradigm], language)
     else:
         adaptive.run(s, paradigm, PARADIGMS[paradigm], language, pid)

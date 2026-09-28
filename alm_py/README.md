@@ -5,6 +5,7 @@ A Python/PsychoPy version of three Adaptive Language Mapping paradigms, so they 
 - Adaptive semantic matching, visual (English, Spanish, Arabic): training, practice, standard scan, quick scan
 - Adaptive rhyming judgment, visual (English, Spanish): training, practice, standard scan, quick scan
 - Word generation (English/Spanish letters, Arabic letters): practice, quick scan
+- Wilson motor paradigms (tongue, fingers, foot), with instructions in English, Spanish or Arabic
 
 It follows `AdaptiveLanguageMapping.m` closely and uses the same word lists (`../paradigms`), the same paradigm
 numbers and the same `history/` and `logs/` folders and file formats, so a participant can move between the
@@ -34,7 +35,7 @@ Settings (keys, fonts, sizes, initial delay) are in `preferences.py`, the equiva
 
 `--simulate` triggers the run itself and presses the match key (about 85% correct), so a whole run can be
 checked unattended. `--paradigm` runs one paradigm without the menu: 1-4 semantic, 13-16 rhyming,
-33-34 word generation. Simulated runs write to the history file like real ones, so use a test ID.
+33-34 word generation, 35-37 motor. Simulated runs write to the history file like real ones, so use a test ID.
 
 ## Files
 
@@ -52,6 +53,9 @@ checked unattended. `--paradigm` runs one paradigm without the menu: 1-4 semanti
   letters that hang below the line, such as ع, sit a little low).
 - Arabic uses the pre-shaped columns of the word lists, as in MATLAB, so history files match.
 - Word generation uses Liberation Serif (the Linux equivalent of Times New Roman).
+- Motor instructions are translated (the MATLAB version is English only). Spanish uses formal commands
+  (*Mueva la lengua*); Arabic uses gender-neutral verbal nouns (تحريك اللسان, "moving the tongue"; راحة, "rest")
+  because Arabic commands differ for men and women.
 - Keyboard: key presses come from the window's key events, which include every keyboard (scanner trigger and
   button box), timed by checking every half millisecond. Unlike MATLAB, keys only count while the ALM window has
   focus (it always does when full screen). Psychtoolbox's keyboard queues were not used: without real-time

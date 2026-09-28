@@ -151,12 +151,15 @@ class Session:
         self.win.flip()
         return GetSecs()
 
-    def text(self, s, y=0, size=None, font=None, color=(255, 255, 255), x=0, left=False, bold=False):
-        """Text centred on (x, y), or left-aligned at x if left=True. Coordinates are pixels from the centre."""
+    def text(self, s, y=0, size=None, font=None, color=(255, 255, 255), x=0, left=False, bold=False, arabic=False):
+        """Text centred on (x, y), or left-aligned at x if left=True. Coordinates are pixels from the centre.
+
+        arabic=True joins the letters and writes right to left (not needed for the pre-shaped word lists).
+        """
         return visual.TextStim(self.win, text=s, pos=(x, y), height=size or self.prefs.standard_font_size * self.ygrid,
                                font=font or self.prefs.prop_font, color=rgb(color), bold=bold,
                                wrapWidth=2 * self.xdim, anchorHoriz='left' if left else 'center',
-                               alignText='left' if left else 'center')
+                               alignText='left' if left else 'center', languageStyle='Arabic' if arabic else 'LTR')
 
     def row(self, n):
         """y coordinate of text row n counted from the top (45 rows per screen)."""
