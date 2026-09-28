@@ -19,12 +19,15 @@ switch(computer)
   case 'GLNXA64'
     propFont = 'DejaVu Sans';
     monoFont = 'DejaVu Sans Mono';
+    arabicFont = 'DejaVu Sans';
   case 'PCWIN64'
     propFont = 'Lucida Sans Unicode';
     monoFont = 'Consolas';
+    arabicFont = 'Arial';
   case 'MACI64'
     propFont = 'Lucida Grande';
     monoFont = 'Menlo';
+    arabicFont = 'Geeza Pro';
   otherwise
     error('Unrecognized type of computer.');
 end
@@ -37,11 +40,12 @@ hintText = 1;
 overrideRegLatencyClass = [];
 
 activeParadigms = [1:4 13:16 23:24 28:30 31:34 35:41 42 43];
+arabicPreShaped = 1; % 1 = show pre-shaped Arabic (joined letters, right-to-left); 0 = raw Arabic, if the text renderer shapes it itself
 
 almPreferences; % overrides these defaults
 
 language = 1;
-languageName = {'English', 'Spanish'};
+languageName = {'English', 'Spanish', 'Arabic'};
 nLanguages = numel(languageName);
 
 % argument processing
@@ -342,7 +346,7 @@ while true
         else
           fgColor = textColor;
         end
-        if language == 2 && i > 4 && i < nParadigms - 1
+        if language >= 2 && i > 4 && i < nParadigms - 1
           fgColor = [128 128 128];
         end
         % draw menu item
@@ -546,6 +550,24 @@ while true
         sp_mismatches.word1 = c{1};
         sp_mismatches.word2 = c{2};
         fclose(fid);
+
+        % Arabic: columns 1-2 are raw words, columns 3-4 are pre-shaped for display
+        if arabicPreShaped
+          arCols = [3 4];
+        else
+          arCols = [1 2];
+        end
+        fid = fopen('paradigms/matches_arabic.txt', 'r', 'native', 'UTF-8');
+        c = textscan(fid, '%s%s%s%s%f%f%f', 'HeaderLines', 1, 'Whitespace', '\t');
+        ar_matches.word1 = c{arCols(1)};
+        ar_matches.word2 = c{arCols(2)};
+        fclose(fid);
+
+        fid = fopen('paradigms/mismatches_arabic.txt', 'r', 'native', 'UTF-8');
+        c = textscan(fid, '%s%s%s%s%f%f%f', 'HeaderLines', 1, 'Whitespace', '\t');
+        ar_mismatches.word1 = c{arCols(1)};
+        ar_mismatches.word2 = c{arCols(2)};
+        fclose(fid);
             
         fid = fopen('paradigms/aud_matches.txt', 'r');
         c = textscan(fid, '%s%s%f%f%f%f%f%f%f%f%f%f', 'HeaderLines', 1);
@@ -683,6 +705,15 @@ while true
         sp_diffRanges_mismatch{1} = 1:nVeryEasyItems;
         for i = 2:nDifficultyLevels
           sp_diffRanges_mismatch{i} = (sp_diffRanges_mismatch{i - 1}(end) + 1):(nVeryEasyItems + ceil((i - 1) / (nDifficultyLevels - 1) * (length(sp_mismatches.word1) - nVeryEasyItems))); %#ok<AGROW>
+        end
+
+        ar_diffRanges{1} = 1:nVeryEasyItems;
+        for i = 2:nDifficultyLevels
+          ar_diffRanges{i} = (ar_diffRanges{i - 1}(end) + 1):(nVeryEasyItems + ceil((i - 1) / (nDifficultyLevels - 1) * (length(ar_matches.word1) - nVeryEasyItems))); %#ok<AGROW>
+        end
+        ar_diffRanges_mismatch{1} = 1:nVeryEasyItems;
+        for i = 2:nDifficultyLevels
+          ar_diffRanges_mismatch{i} = (ar_diffRanges_mismatch{i - 1}(end) + 1):(nVeryEasyItems + ceil((i - 1) / (nDifficultyLevels - 1) * (length(ar_mismatches.word1) - nVeryEasyItems))); %#ok<AGROW>
         end
         
         aud_nWords = length(aud_matches.word1);
@@ -1154,6 +1185,12 @@ while true
                   else
                     diffRange = sp_diffRanges_mismatch{difficulty};
                   end
+                case 3
+                  if match
+                    diffRange = ar_diffRanges{difficulty};
+                  else
+                    diffRange = ar_diffRanges_mismatch{difficulty};
+                  end
               end
               if ~match
                 diffRange = -diffRange;
@@ -1188,6 +1225,14 @@ while true
                   else
                     item1 = sp_mismatches.word1{-item};
                     item2 = sp_mismatches.word2{-item};
+                  end
+                case 3
+                  if match
+                    item1 = ar_matches.word1{item};
+                    item2 = ar_matches.word2{item};
+                  else
+                    item1 = ar_mismatches.word1{-item};
+                    item2 = ar_mismatches.word2{-item};
                   end
               end
               item1 = convertCase(item1, stimCase);
@@ -1621,13 +1666,19 @@ while true
         % present the trial
         if paradigm <= 4 || paradigm >= 9 % visual paradigms
           Screen('FillRect', w, backgroundColor);
+          drawItem1 = item1;
+          drawItem2 = item2;
           if cond == 2
             Screen('TextFont', w, monoFont);
+          elseif language == 3 && paradigm <= 4
+            Screen('TextFont', w, arabicFont);
+            drawItem1 = double(item1); % cast to double needed for unicode
+            drawItem2 = double(item2);
           end
           
           Screen('TextSize', w, round(stimulusFontSize * yGrid));
-          DrawFormattedText(w, item1, 'center', y - round(2/3 * stimulusFontSize * yGrid), textColor);
-          DrawFormattedText(w, item2, 'center', y + round(4/3 * stimulusFontSize * yGrid), textColor);
+          DrawFormattedText(w, drawItem1, 'center', y - round(2/3 * stimulusFontSize * yGrid), textColor);
+          DrawFormattedText(w, drawItem2, 'center', y + round(4/3 * stimulusFontSize * yGrid), textColor);
           Screen('TextFont', w, propFont);
           if hintText && (paradigm == 1 || paradigm == 5 || paradigm == 9 || paradigm == 13)
             writeInstructions(w, standardFontSize, yGrid, verticalLines, hintColor, trainingDifficulty)
