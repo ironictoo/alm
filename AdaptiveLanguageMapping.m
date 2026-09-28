@@ -347,7 +347,7 @@ while true
         else
           fgColor = textColor;
         end
-        if language >= 2 && i > 4 && i < nParadigms - 1
+        if language >= 2 && i > 4 && i < nParadigms - 1 && ~(language == 3 && (i == 33 || i == 34))
           fgColor = [128 128 128];
         end
         % draw menu item
@@ -886,6 +886,14 @@ while true
         wordGen = wordGen.Column1;
         wordGenPractice = txtread('paradigms/black/word-generation-practice.txt', false);
         wordGenPractice = wordGenPractice.Column1;
+        fid = fopen('paradigms/black/word-generation-arabic.txt', 'r', 'native', 'UTF-8');
+        c = textscan(fid, '%s');
+        wordGenArabic = c{1};
+        fclose(fid);
+        fid = fopen('paradigms/black/word-generation-practice-arabic.txt', 'r', 'native', 'UTF-8');
+        c = textscan(fid, '%s');
+        wordGenPracticeArabic = c{1};
+        fclose(fid);
         wordGenSymbol = cell(12, 1);
         for i = 1:12
           wordGenSymbol{i} = 255 - imread(sprintf('paradigms/black/symbol%02d.jpg', i));
@@ -2378,8 +2386,14 @@ while true
                 item = sentComp{trialtype};
               case 33
                 item = wordGenPractice{trialtype};
+                if language == 3
+                  item = wordGenPracticeArabic{trialtype};
+                end
               case 34
                 item = wordGen{trialtype};
+                if language == 3
+                  item = wordGenArabic{trialtype};
+                end
             end
             Screen('FillRect', w, backgroundColor);
             if item(1) == '_' % symbol
@@ -2393,7 +2407,13 @@ while true
               imgRect = round([x - xSize / 2 * scale, y - ySize / 2 * scale, x + xSize / 2 * scale, y + ySize / 2 * scale]);
               Screen('PutImage', w, symbolImg, imgRect);
             else % word
-              if paradigm == 33 || paradigm == 34
+              if (paradigm == 33 || paradigm == 34) && language == 3
+                % Arabic letter: centre its bounding box on the screen centre
+                Screen('TextFont', w, arabicFont);
+                Screen('TextSize', w, round(5 * stimulusFontSize * yGrid));
+                letterBounds = Screen('TextBounds', w, double(item)); % cast to double needed for unicode
+                Screen('DrawText', w, double(item), x - round(letterBounds(3) / 2), y - round(letterBounds(4) / 2), textColor);
+              elseif paradigm == 33 || paradigm == 34
                 Screen('TextSize', w, round(5 * stimulusFontSize * yGrid));
                 DrawFormattedText(w, item, 'center', y + round(1/3 * 5 * stimulusFontSize * yGrid), textColor);
               else
