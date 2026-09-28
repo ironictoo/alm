@@ -41,6 +41,7 @@ overrideRegLatencyClass = [];
 
 activeParadigms = [1:4 13:16 23:24 28:30 31:34 35:41 42 43];
 arabicPreShaped = 1; % 1 = show pre-shaped Arabic (joined letters, right-to-left); 0 = raw Arabic, if the text renderer shapes it itself
+arabicFontScale = 1.4; % Arabic stimulus text size relative to stimulusFontSize (Arabic glyphs look small at the same size)
 
 almPreferences; % overrides these defaults
 
@@ -1668,15 +1669,17 @@ while true
           Screen('FillRect', w, backgroundColor);
           drawItem1 = item1;
           drawItem2 = item2;
+          drawSize = round(stimulusFontSize * yGrid);
           if cond == 2
             Screen('TextFont', w, monoFont);
           elseif language == 3 && paradigm <= 4
             Screen('TextFont', w, arabicFont);
             drawItem1 = double(item1); % cast to double needed for unicode
             drawItem2 = double(item2);
+            drawSize = round(arabicFontScale * stimulusFontSize * yGrid);
           end
           
-          Screen('TextSize', w, round(stimulusFontSize * yGrid));
+          Screen('TextSize', w, drawSize);
           DrawFormattedText(w, drawItem1, 'center', y - round(2/3 * stimulusFontSize * yGrid), textColor);
           DrawFormattedText(w, drawItem2, 'center', y + round(4/3 * stimulusFontSize * yGrid), textColor);
           Screen('TextFont', w, propFont);
