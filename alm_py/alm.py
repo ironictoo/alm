@@ -53,8 +53,8 @@ def menu(s):
         lines += [(PARADIGMS[n], i + 1) for i, n in enumerate(numbers)]
         for row, (label, index) in enumerate(lines):
             color = white
-            if index is None or (index > 0 and 13 <= numbers[index - 1] <= 16 and LANGUAGES[language] != 'English'):
-                color = HINT_COLOR  # information line, or rhyming (the rhyming list is English only)
+            if index is None or (index > 0 and 13 <= numbers[index - 1] <= 16 and LANGUAGES[language] == 'Arabic'):
+                color = HINT_COLOR  # information line, or rhyming (no Arabic rhyming list)
             y = s.row(5 + row + (1 if row >= 3 else 0))
             stim = s.text(label, y=y, x=x, left=True, color=color)
             if index == selected:

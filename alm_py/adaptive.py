@@ -166,7 +166,7 @@ def run(s, paradigm, name, language, pid):
 
     s.log('Loading and preparing stimuli.')
     if rhyme:
-        rhymes = read_rows('rhyme.txt')
+        rhymes = read_rows('rhyme_spanish.txt' if language == 'Spanish' else 'rhyme.txt')
     else:
         matches, mismatches, match_ranges, mismatch_ranges = load_semantic()[language]
     with open(path('paradigms', 'symbols.txt'), encoding='utf8') as f:

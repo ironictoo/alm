@@ -3,7 +3,7 @@
 A Python/PsychoPy version of three Adaptive Language Mapping paradigms, so they can run without MATLAB:
 
 - Adaptive semantic matching, visual (English, Spanish, Arabic): training, practice, standard scan, quick scan
-- Adaptive rhyming judgment, visual (English): training, practice, standard scan, quick scan
+- Adaptive rhyming judgment, visual (English, Spanish): training, practice, standard scan, quick scan
 - Word generation (English/Spanish letters, Arabic letters): practice, quick scan
 
 It follows `AdaptiveLanguageMapping.m` closely and uses the same word lists (`../paradigms`), the same paradigm
