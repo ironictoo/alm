@@ -342,7 +342,7 @@ while true
         else
           fgColor = textColor;
         end
-        if language == 2 && i > 4 && i < nParadigms - 1
+        if language == 2 && i > 4 && i < nParadigms - 1 && ~(i >= 13 && i <= 16)
           fgColor = [128 128 128];
         end
         % draw menu item
@@ -574,6 +574,14 @@ while true
         rhyme.word2 = c{2};
         rhyme.match	= c{3};
         rhyme.difficulty = c{4};
+        fclose(fid);
+
+        fid = fopen('paradigms/rhyme_spanish.txt', 'r');
+        c = textscan(fid, '%s%s%f%f', 'HeaderLines', 1);
+        sp_rhyme.word1 = c{1};
+        sp_rhyme.word2 = c{2};
+        sp_rhyme.match = c{3};
+        sp_rhyme.difficulty = c{4};
         fclose(fid);
 
         fid = fopen('paradigms/symbols.txt', 'r', 'native', 'utf8');
@@ -1432,28 +1440,32 @@ while true
               item = widx1 + widx2 / 10000;
               
             else % rhyme judgment
+              rhymeList = rhyme;
+              if language == 2
+                rhymeList = sp_rhyme;
+              end
               % find an item of the right difficulty range that has not been presented previously
               alreadyPresented = history.item(history.paradigm >= 13 & history.cond == 1);
-              validItems = find((rhyme.match == match) & (rhyme.difficulty == difficulty));
+              validItems = find((rhymeList.match == match) & (rhymeList.difficulty == difficulty));
               validItems = validItems(~ismember(validItems, alreadyPresented));
               if isempty(validItems)
                 % consider only items presented today
                 alreadyPresented = history.item(history.paradigm >= 13 & history.cond == 1 & floor(history.when) == floor(runId));
-                validItems = find((rhyme.match == match) & (rhyme.difficulty == difficulty));
+                validItems = find((rhymeList.match == match) & (rhymeList.difficulty == difficulty));
                 validItems = validItems(~ismember(validItems, alreadyPresented));
                 if isempty(validItems)
                   % give up, present anything in range
-                  validItems = find((rhyme.match == match) & (rhyme.difficulty == difficulty));
+                  validItems = find((rhymeList.match == match) & (rhymeList.difficulty == difficulty));
                 end
               end
               item = validItems(randi(length(validItems)));
 
               if rand < 0.5
-                item1 = rhyme.word1{item};
-                item2 = rhyme.word2{item};
+                item1 = rhymeList.word1{item};
+                item2 = rhymeList.word2{item};
               else
-                item1 = rhyme.word2{item};
-                item2 = rhyme.word1{item};
+                item1 = rhymeList.word2{item};
+                item2 = rhymeList.word1{item};
               end
               
               item1 = convertCase(item1, stimCase);
