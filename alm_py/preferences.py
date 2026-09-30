@@ -1,4 +1,5 @@
 # ALM (PsychoPy version) preferences; the equivalent of almPreferences.m
+import sys
 
 # keys that start a paradigm (scanner trigger), as PsychoPy key names
 trigger_keys = ['t']
@@ -20,8 +21,11 @@ message_font_size = 1.65
 stimulus_font_size = 3.3
 stim_case = 'lower'
 
-prop_font = 'DejaVu Sans'
-mono_font = 'DejaVu Sans Mono'
-arabic_font = 'DejaVu Sans'
+# fonts, as in the MATLAB version; the monospaced font must contain all the symbols in paradigms/symbols.txt
+if sys.platform.startswith('win'):
+    prop_font, mono_font, arabic_font, word_gen_font = 'Lucida Sans Unicode', 'Consolas', 'Arial', 'Times New Roman'
+elif sys.platform == 'darwin':
+    prop_font, mono_font, arabic_font, word_gen_font = 'Lucida Grande', 'Menlo', 'Geeza Pro', 'Times New Roman'
+else:  # Linux; Liberation Serif has the same letter shapes and sizes as Times New Roman
+    prop_font, mono_font, arabic_font, word_gen_font = 'DejaVu Sans', 'DejaVu Sans Mono', 'DejaVu Sans', 'Liberation Serif'
 arabic_font_scale = 1.4  # Arabic words look small at the same size
-word_gen_font = 'Liberation Serif'  # same letter shapes and sizes as Times New Roman
