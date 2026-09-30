@@ -18,12 +18,14 @@ Language Neuroscience Laboratory. The original project, its downloads and its do
 - **Spanish rhyming.** New. Before, choosing Spanish still presented the English pseudowords (e.g. *keef*,
   *bool*). Spanish spelling-to-sound rules would read these differently, so the pairs designed to rhyme in
   English often did not rhyme when read in Spanish, and the difficulty levels were not calibrated. The new list
-  (630 pairs, `paradigms/rhyme_spanish.txt`) uses pseudowords that follow Spanish phonotactics and regular
+  (609 pairs, `paradigms/rhyme_spanish.txt`) uses pseudowords that follow Spanish phonotactics and regular
   Spanish spelling, built mostly from open (consonant–vowel) syllables. Because Spanish spelling is transparent,
-  each pseudoword has one unambiguous pronunciation. Difficulty increases with word length: levels 1–5 pair
-  pseudowords of equal length, from 2 to 6 syllables; levels 6 and 7 pair pseudowords of different lengths
-  (level 7 has 9 or more syllables in total). The annotated source list, with syllable counts and item notes, is
-  `paradigms/rhyme_spanish_original.txt`.
+  each pseudoword has one unambiguous pronunciation. Difficulty increases mainly with word length: pairs of
+  2-syllable words (level 1), 3-syllable words (level 2), mostly 5-syllable words (levels 3 and 4) and 6-syllable
+  words (level 5); levels 6 and 7 pair pseudowords of different lengths (level 7 has 9 or more syllables in
+  total). The annotated source list, with item notes, is `paradigms/rhyme_spanish_original.txt`; it uses levels
+  0–6, and `rhyme_spanish.txt` renumbers them to the task's levels 1–7 (0 becomes 1, and 6 is split into 6 and 7
+  by total syllables).
 - **Arabic.** Arabic is a third language option for semantic matching and word generation:
   - Arabic semantic matching lists (`paradigms/matches_arabic.txt`, `paradigms/mismatches_arabic.txt`):
     544 related and 423 unrelated pairs in Modern Standard Arabic. Difficulty is ordered by word frequency
